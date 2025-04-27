@@ -1,0 +1,7007 @@
+[
+  {
+    "id": "sr:competition:25357",
+    "name": "UFC Contender Series, Las Vegas, Week 26",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:54879",
+        "name": "UFC Contender Series, Las Vegas, Week 26 2018",
+        "start_date": "2018-06-26",
+        "end_date": "2018-06-28",
+        "year": "2018",
+        "competition_id": "sr:competition:25357"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25399",
+    "name": "UFC Fight Night - Boise, Idaho",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55015",
+        "name": "UFC Fight Night - Boise, Idaho",
+        "start_date": "2018-07-14",
+        "end_date": "2018-07-16",
+        "year": "2018",
+        "competition_id": "sr:competition:25399"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25455",
+    "name": "UFC 226 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55173",
+        "name": "UFC 226 - Las Vegas 2018",
+        "start_date": "2018-07-07",
+        "end_date": "2018-07-09",
+        "year": "2018",
+        "competition_id": "sr:competition:25455"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25457",
+    "name": "The Ultimate Fighter Finale - Las Vegas, week 27",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55175",
+        "name": "The Ultimate FIghter Finale - Las Vegas, week 27",
+        "start_date": "2018-07-06",
+        "end_date": "2018-07-08",
+        "year": "2018",
+        "competition_id": "sr:competition:25457"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25517",
+    "name": "UFC Contender Series, Las Vegas, Week 28",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55271",
+        "name": "UFC Contender Series, Las Vegas, Week 28 - 2018",
+        "start_date": "2018-07-10",
+        "end_date": "2018-07-12",
+        "year": "2018",
+        "competition_id": "sr:competition:25517"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25613",
+    "name": "UFC Fight Night - St. Louis",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55483",
+        "name": "UFC Fight Night - St. Louis 2018",
+        "start_date": "2018-01-12",
+        "end_date": "2018-01-15",
+        "year": "2018",
+        "competition_id": "sr:competition:25613"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25617",
+    "name": "UFC 220 - Boston",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55487",
+        "name": "UFC 220 -Boston 2018",
+        "start_date": "2018-01-19",
+        "end_date": "2018-01-21",
+        "year": "2018",
+        "competition_id": "sr:competition:25617"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25619",
+    "name": "UFC Fight Night - Charlotte",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55489",
+        "name": "UFC Fight Night - Charlotte 2018",
+        "start_date": "2018-01-26",
+        "end_date": "2018-01-28",
+        "year": "2018",
+        "competition_id": "sr:competition:25619"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25621",
+    "name": "UFC Fight Night - Belem, Brazil",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55491",
+        "name": "UFC Fight Night - Belem, Brazil 2018",
+        "start_date": "2018-02-02",
+        "end_date": "2018-02-04",
+        "year": "2018",
+        "competition_id": "sr:competition:25621"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25623",
+    "name": "UFC 221 - Perth",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55493",
+        "name": "UFC 221 - Perth 2018",
+        "start_date": "2018-02-09",
+        "end_date": "2018-02-11",
+        "year": "2018",
+        "competition_id": "sr:competition:25623"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25625",
+    "name": "UFC Fight Night - Austin",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55495",
+        "name": "UFC Fight Night - Austin 2018",
+        "start_date": "2018-02-16",
+        "end_date": "2018-02-18",
+        "year": "2018",
+        "competition_id": "sr:competition:25625"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25627",
+    "name": "UFC Fight Night - Orlando",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55497",
+        "name": "UFC Fight Night - Orlando 2018",
+        "start_date": "2018-02-23",
+        "end_date": "2018-02-25",
+        "year": "2018",
+        "competition_id": "sr:competition:25627"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25629",
+    "name": "UFC 222 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55499",
+        "name": "UFC 222 - Las Vegas 2018",
+        "start_date": "2018-03-02",
+        "end_date": "2018-03-04",
+        "year": "2018",
+        "competition_id": "sr:competition:25629"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25631",
+    "name": "UFC Fight Night - London",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55501",
+        "name": "UFC Fight Night - London 2018",
+        "start_date": "2018-03-16",
+        "end_date": "2018-02-18",
+        "year": "2018",
+        "competition_id": "sr:competition:25631"
+      },
+      {
+        "id": "sr:season:63281",
+        "name": "UFC Fight Night - London 2019",
+        "start_date": "2019-03-16",
+        "end_date": "2019-03-17",
+        "year": "2019",
+        "competition_id": "sr:competition:25631"
+      },
+      {
+        "id": "sr:season:76659",
+        "name": "UFC Fight Night - London 2020",
+        "start_date": "2020-03-21",
+        "end_date": "2020-03-24",
+        "year": "2020",
+        "competition_id": "sr:competition:25631"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25633",
+    "name": "UFC 223 - Brooklyn",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55503",
+        "name": "UFC 223 - Brooklyn 2018",
+        "start_date": "2018-04-06",
+        "end_date": "2018-04-08",
+        "year": "2018",
+        "competition_id": "sr:competition:25633"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25635",
+    "name": "UFC Fight Night - Glendale",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55505",
+        "name": "UFC Fight Night - Glendale 2018",
+        "start_date": "2018-04-13",
+        "end_date": "2018-04-15",
+        "year": "2018",
+        "competition_id": "sr:competition:25635"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25637",
+    "name": "UFC Fight Night - Atlantic City",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55507",
+        "name": "UFC Fight Night - Atlantic City 2018",
+        "start_date": "2018-04-20",
+        "end_date": "2018-04-22",
+        "year": "2018",
+        "competition_id": "sr:competition:25637"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25639",
+    "name": "UFC 224 - Rio de Janeiro",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55509",
+        "name": "UFC 224 - Rio de Janeiro 2018",
+        "start_date": "2018-05-11",
+        "end_date": "2018-05-13",
+        "year": "2018",
+        "competition_id": "sr:competition:25639"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25641",
+    "name": "UFC Fight Night - Santiago de Chile",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55511",
+        "name": "UFC Fight Night - Santiago de Chile 2018",
+        "start_date": "2018-05-18",
+        "end_date": "2018-05-20",
+        "year": "2018",
+        "competition_id": "sr:competition:25641"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25643",
+    "name": "UFC Fight Night - Liverpool",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55513",
+        "name": "UFC Fight Night - Liverpool 2018",
+        "start_date": "2018-05-25",
+        "end_date": "2018-05-27",
+        "year": "2018",
+        "competition_id": "sr:competition:25643"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25645",
+    "name": "UFC Fight Night - Utica",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55515",
+        "name": "UFC Fight Night - Utica 2018",
+        "start_date": "2018-06-01",
+        "end_date": "2018-06-03",
+        "year": "2018",
+        "competition_id": "sr:competition:25645"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25647",
+    "name": "UFC 225 - Chicago",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55517",
+        "name": "UFC 225 - Chicago 2018",
+        "start_date": "2018-06-08",
+        "end_date": "2018-06-10",
+        "year": "2018",
+        "competition_id": "sr:competition:25647"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25649",
+    "name": "UFC Contender Series, Las Vegas, Week 24",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55519",
+        "name": "UFC Contender Series, Las Vegas, Week 24 2018",
+        "start_date": "2018-06-12",
+        "end_date": "2018-06-13",
+        "year": "2018",
+        "competition_id": "sr:competition:25649"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25651",
+    "name": "UFC Contender Series, Las Vegas, Week 25",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55521",
+        "name": "UFC Contender Series, Las Vegas, Week 25 2018",
+        "start_date": "2018-06-19",
+        "end_date": "2018-06-20",
+        "year": "2018",
+        "competition_id": "sr:competition:25651"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25653",
+    "name": "UFC Fight Night - Singapore",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55523",
+        "name": "UFC Fight Night - Singapore 2018",
+        "start_date": "2018-06-22",
+        "end_date": "2018-06-24",
+        "year": "2018",
+        "competition_id": "sr:competition:25653"
+      },
+      {
+        "id": "sr:season:71582",
+        "name": "UFC Fight Night - Singapore 2019",
+        "start_date": "2019-10-26",
+        "end_date": "2019-10-29",
+        "year": "2019",
+        "competition_id": "sr:competition:25653"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25661",
+    "name": "UFC Contender Series, Las Vegas, Week 29",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55565",
+        "name": "UFC Contender Series, Las Vegas, Week 29 - 2018",
+        "start_date": "2018-07-17",
+        "end_date": "2018-07-19",
+        "year": "2018",
+        "competition_id": "sr:competition:25661"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25671",
+    "name": "UFC Fight Night - Hamburg",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55603",
+        "name": "UFC Fight Night - Hamburg 2018",
+        "start_date": "2018-07-22",
+        "end_date": "2018-07-24",
+        "year": "2018",
+        "competition_id": "sr:competition:25671"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25673",
+    "name": "UFC Contender Series, Las Vegas, Week 30",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55605",
+        "name": "UFC Contender Series, Las Vegas, Week 30 2018",
+        "start_date": "2018-07-24",
+        "end_date": "2018-07-26",
+        "year": "2018",
+        "competition_id": "sr:competition:25673"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25779",
+    "name": "UFC Fight Night - Calgary",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55893",
+        "name": "UFC Fight Night - Calgary 2018",
+        "start_date": "2018-07-28",
+        "end_date": "2018-07-30",
+        "year": "2018",
+        "competition_id": "sr:competition:25779"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25781",
+    "name": "UFC 227 - Los Angeles",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55895",
+        "name": "UFC 227 - Los Angeles 2018",
+        "start_date": "2018-08-04",
+        "end_date": "2018-08-06",
+        "year": "2018",
+        "competition_id": "sr:competition:25781"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25783",
+    "name": "UFC Fight Night - Lincoln",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55897",
+        "name": "UFC Fight Night - Lincoln 2018",
+        "start_date": "2018-08-25",
+        "end_date": "2018-08-27",
+        "year": "2018",
+        "competition_id": "sr:competition:25783"
+      },
+      {
+        "id": "sr:season:76799",
+        "name": "UFC Fight Night - Lincoln 2020",
+        "start_date": "2020-04-25",
+        "end_date": "2020-04-27",
+        "year": "2020",
+        "competition_id": "sr:competition:25783"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25785",
+    "name": "UFC 228 - Dallas",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55899",
+        "name": "UFC 228 - Dallas 2018",
+        "start_date": "2018-09-08",
+        "end_date": "2018-09-10",
+        "year": "2018",
+        "competition_id": "sr:competition:25785"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25787",
+    "name": "UFC Fight Night - Moscow",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55901",
+        "name": "UFC Fight Night - Moscow 2018",
+        "start_date": "2018-09-15",
+        "end_date": "2018-09-17",
+        "year": "2018",
+        "competition_id": "sr:competition:25787"
+      },
+      {
+        "id": "sr:season:71588",
+        "name": "UFC Fight Night - Moscow 2019",
+        "start_date": "2019-11-08",
+        "end_date": "2019-11-12",
+        "year": "2019",
+        "competition_id": "sr:competition:25787"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25789",
+    "name": "UFC Fight Night - Sao Paulo",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55903",
+        "name": "UFC Fight Night - Sao Paulo 2018",
+        "start_date": "2018-09-22",
+        "end_date": "2018-09-24",
+        "year": "2018",
+        "competition_id": "sr:competition:25789"
+      },
+      {
+        "id": "sr:season:71590",
+        "name": "UFC Fight Night - Sao Paulo 2019",
+        "start_date": "2019-11-16",
+        "end_date": "2019-11-18",
+        "year": "2019",
+        "competition_id": "sr:competition:25789"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25791",
+    "name": "UFC 229 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55905",
+        "name": "UFC 229 - Las Vegas 2018",
+        "start_date": "2018-10-06",
+        "end_date": "2018-10-08",
+        "year": "2018",
+        "competition_id": "sr:competition:25791"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25793",
+    "name": "UFC Fight Night - Moncton",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55907",
+        "name": "UFC Fight Night - Moncton 2018",
+        "start_date": "2018-10-27",
+        "end_date": "2018-10-29",
+        "year": "2018",
+        "competition_id": "sr:competition:25793"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25795",
+    "name": "UFC 230 - New York",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55909",
+        "name": "UFC 230 - New York 2018",
+        "start_date": "2018-11-03",
+        "end_date": "2018-11-05",
+        "year": "2018",
+        "competition_id": "sr:competition:25795"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25797",
+    "name": "UFC Fight Night - Denver",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55911",
+        "name": "UFC Fight Night - Denver 2018",
+        "start_date": "2018-11-10",
+        "end_date": "2018-11-12",
+        "year": "2018",
+        "competition_id": "sr:competition:25797"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25799",
+    "name": "UFC Fight Night - Adelaide",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55913",
+        "name": "UFC Fight Night - Adelaide 2018",
+        "start_date": "2018-12-01",
+        "end_date": "2018-12-03",
+        "year": "2018",
+        "competition_id": "sr:competition:25799"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25801",
+    "name": "UFC 231 - Toronto",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55915",
+        "name": "UFC 231 - Toronto 2018",
+        "start_date": "2018-12-08",
+        "end_date": "2018-12-10",
+        "year": "2018",
+        "competition_id": "sr:competition:25801"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25803",
+    "name": "UFC Fight Night - Milwaukee",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55919",
+        "name": "UFC Fight Night - Milwaukee 2018",
+        "start_date": "2018-12-15",
+        "end_date": "2018-12-17",
+        "year": "2018",
+        "competition_id": "sr:competition:25803"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25805",
+    "name": "UFC 232 - Los Angeles",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55921",
+        "name": "UFC 232 - Los Angeles 2018",
+        "start_date": "2018-12-29",
+        "end_date": "2018-12-31",
+        "year": "2018",
+        "competition_id": "sr:competition:25805"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25807",
+    "name": "The Ultimate Fighter Finale - Las Vegas, week 48",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55923",
+        "name": "The Ultimate Fighter Finale - Las Vegas, week 48",
+        "start_date": "2018-11-30",
+        "end_date": "2018-12-03",
+        "year": "2018",
+        "competition_id": "sr:competition:25807"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25809",
+    "name": "UFC Contender Series, Las Vegas, Week 31",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:55925",
+        "name": "UFC Contender Series, Las Vegas, Week 31 2018",
+        "start_date": "2018-07-31",
+        "end_date": "2018-08-01",
+        "year": "2018",
+        "competition_id": "sr:competition:25809"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:25863",
+    "name": "UFC Contender Series, Las Vegas, Week 32",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:56097",
+        "name": "UFC Contender Series, Las Vegas, Week 32 2018",
+        "start_date": "2018-08-07",
+        "end_date": "2018-08-08",
+        "year": "2018",
+        "competition_id": "sr:competition:25863"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27364",
+    "name": "UFC 233 - Anaheim",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:60170",
+        "name": "UFC 233 - Anaheim 2019",
+        "start_date": "2019-01-26",
+        "end_date": "2019-01-27",
+        "year": "2019",
+        "competition_id": "sr:competition:27364"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27366",
+    "name": "UFC Fight Night - New York",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:60172",
+        "name": "UFC Fight Night - New York 2019",
+        "start_date": "2019-01-19",
+        "end_date": "2019-01-20",
+        "year": "2019",
+        "competition_id": "sr:competition:27366"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27472",
+    "name": "UFC Fight Night - Beijing",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:60732",
+        "name": "UFC Fight Night - Beijing 2018",
+        "start_date": "2018-11-24",
+        "end_date": "2018-11-26",
+        "year": "2018",
+        "competition_id": "sr:competition:27472"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27474",
+    "name": "UFC Fight Night - Buenos Aires",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:60736",
+        "name": "UFC Fight Night - Buenos Aires 2018",
+        "start_date": "2018-11-16",
+        "end_date": "2018-11-19",
+        "year": "2018",
+        "competition_id": "sr:competition:27474"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27735",
+    "name": "UFC 234 - Melbourne",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:62385",
+        "name": "UFC 234 - Melbourne 2019",
+        "start_date": "2019-02-09",
+        "end_date": "2019-02-11",
+        "year": "2019",
+        "competition_id": "sr:competition:27735"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27737",
+    "name": "UFC 235 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:62391",
+        "name": "UFC 235 - Las Vegas 2019",
+        "start_date": "2019-03-02",
+        "end_date": "2019-03-03",
+        "year": "2019",
+        "competition_id": "sr:competition:27737"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27773",
+    "name": "UFC Fight Night - Phoenix",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:62673",
+        "name": "UFC Fight Night - Phoenix 2019",
+        "start_date": "2019-02-17",
+        "end_date": "2019-02-18",
+        "year": "2019",
+        "competition_id": "sr:competition:27773"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27775",
+    "name": "UFC Fight Night - Castelao",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:62675",
+        "name": "UFC Fight Night - Castelao 2019",
+        "start_date": "2019-02-02",
+        "end_date": "2019-02-03",
+        "year": "2019",
+        "competition_id": "sr:competition:27775"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27777",
+    "name": "UFC Fight Night - Wichita",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:62677",
+        "name": "UFC Fight Night - Wichita 2019",
+        "start_date": "2019-03-09",
+        "end_date": "2019-03-11",
+        "year": "2019",
+        "competition_id": "sr:competition:27777"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:27779",
+    "name": "UFC Fight Night - Prague",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:62679",
+        "name": "UFC Fight Night - Prague 2019",
+        "start_date": "2019-02-23",
+        "end_date": "2019-02-24",
+        "year": "2019",
+        "competition_id": "sr:competition:27779"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28001",
+    "name": "UFC Fight Night - Philadelphia",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:63285",
+        "name": "UFC Fight Night - Philadelphia 2019",
+        "start_date": "2019-03-30",
+        "end_date": "2019-04-01",
+        "year": "2019",
+        "competition_id": "sr:competition:28001"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28003",
+    "name": "UFC Fight Night - Nashville",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:63287",
+        "name": "UFC Fight Night - Nashville 2019",
+        "start_date": "2019-03-23",
+        "end_date": "2019-03-25",
+        "year": "2019",
+        "competition_id": "sr:competition:28003"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28237",
+    "name": "UFC 236 - Atlanta",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:64029",
+        "name": "UFC 236 - Atlanta 2019",
+        "start_date": "2019-04-14",
+        "end_date": "2019-04-15",
+        "year": "2019",
+        "competition_id": "sr:competition:28237"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28243",
+    "name": "UFC Fight Night - St. Petersburg",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:64071",
+        "name": "UFC Fight Night - St. Petersburg 2019",
+        "start_date": "2019-04-20",
+        "end_date": "2019-04-21",
+        "year": "2019",
+        "competition_id": "sr:competition:28243"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28388",
+    "name": "UFC Fight Night - Sunrise",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65014",
+        "name": "UFC Fight Night - Sunrise 2019",
+        "start_date": "2019-04-27",
+        "end_date": "2019-04-29",
+        "year": "2019",
+        "competition_id": "sr:competition:28388"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28438",
+    "name": "UFC Fight Night - Ottawa",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65236",
+        "name": "UFC Fight Night - Ottawa 2019",
+        "start_date": "2019-05-04",
+        "end_date": "2019-05-06",
+        "year": "2019",
+        "competition_id": "sr:competition:28438"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28440",
+    "name": "UFC 237 - Barra da Tijuca",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65238",
+        "name": "UFC 237 - Barra da Tijuca 2019",
+        "start_date": "2019-05-11",
+        "end_date": "2019-05-13",
+        "year": "2019",
+        "competition_id": "sr:competition:28440"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28442",
+    "name": "UFC Fight Night - Rochester",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65240",
+        "name": "UFC Fight Night - Rochester 2019",
+        "start_date": "2019-05-18",
+        "end_date": "2019-05-20",
+        "year": "2019",
+        "competition_id": "sr:competition:28442"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28444",
+    "name": "UFC Fight Night - Stockholm",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65244",
+        "name": "UFC Fight Night - Stockholm 2019",
+        "start_date": "2019-05-31",
+        "end_date": "2019-06-02",
+        "year": "2019",
+        "competition_id": "sr:competition:28444"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28446",
+    "name": "UFC 238 - Chicago",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65246",
+        "name": "UFC 238 - Chicago 2019",
+        "start_date": "2019-06-08",
+        "end_date": "2019-06-10",
+        "year": "2019",
+        "competition_id": "sr:competition:28446"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28448",
+    "name": "UFC Fight Night - Greenville",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:65248",
+        "name": "UFC Fight Night - Greenville 2019",
+        "start_date": "2019-06-22",
+        "end_date": "2019-06-24",
+        "year": "2019",
+        "competition_id": "sr:competition:28448"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:28923",
+    "name": "UFC 241 - Anaheim",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:66349",
+        "name": "UFC 241 - Anaheim 2019",
+        "start_date": "2019-08-17",
+        "end_date": "2019-08-19",
+        "year": "2019",
+        "competition_id": "sr:competition:28923"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29039",
+    "name": "UFC Fight Night - Minneapolis",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:67683",
+        "name": "UFC Fight Night - Minneapolis 2019",
+        "start_date": "2019-06-29",
+        "end_date": "2019-07-01",
+        "year": "2019",
+        "competition_id": "sr:competition:29039"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29041",
+    "name": "UFC 239 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:67685",
+        "name": "UFC 239 - Las Vegas 2019",
+        "start_date": "2019-07-06",
+        "end_date": "2019-07-08",
+        "year": "2019",
+        "competition_id": "sr:competition:29041"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29043",
+    "name": "UFC Fight Night - Sacramento",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:67687",
+        "name": "UFC Fight Night - Sacramento 2019",
+        "start_date": "2019-07-13",
+        "end_date": "2019-07-15",
+        "year": "2019",
+        "competition_id": "sr:competition:29043"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29045",
+    "name": "UFC Fight Night - San Antonio",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:67689",
+        "name": "UFC Fight Night - San Antonio 2019",
+        "start_date": "2019-07-20",
+        "end_date": "2019-07-22",
+        "year": "2019",
+        "competition_id": "sr:competition:29045"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29047",
+    "name": "UFC 240 - Edmonton",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:67691",
+        "name": "UFC 240 - Edmonton 2019",
+        "start_date": "2019-07-27",
+        "end_date": "2019-07-29",
+        "year": "2019",
+        "competition_id": "sr:competition:29047"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29073",
+    "name": "UFC 242 - Abu Dhabi",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:67869",
+        "name": "UFC 242 - Abu Dhabi 2019",
+        "start_date": "2019-09-07",
+        "end_date": "2019-09-09",
+        "year": "2019",
+        "competition_id": "sr:competition:29073"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29218",
+    "name": "Dana White Contender Series - Season 3, Week 1",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:68330",
+        "name": "Dana White Contender Series Season 3, Week 1",
+        "start_date": "2019-06-18",
+        "end_date": "2019-06-20",
+        "year": "2019",
+        "competition_id": "sr:competition:29218"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29278",
+    "name": "Dana White Contender Series, Season 3, Week 2",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:68552",
+        "name": "Dana White Contender Series Season 3, Week 2",
+        "start_date": "2019-06-25",
+        "end_date": "2019-06-27",
+        "year": "2019",
+        "competition_id": "sr:competition:29278"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29284",
+    "name": "UFC Fight Night - Newark",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:68600",
+        "name": "UFC Fight Night - Newark 2019",
+        "start_date": "2019-08-03",
+        "end_date": "2019-08-04",
+        "year": "2019",
+        "competition_id": "sr:competition:29284"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29286",
+    "name": "UFC Fight Night - Montevideo",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:68602",
+        "name": "UFC Fight Night - Montevideo 2019",
+        "start_date": "2019-08-11",
+        "end_date": "2019-08-12",
+        "year": "2019",
+        "competition_id": "sr:competition:29286"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29288",
+    "name": "Dana White Contender Series, Season 3, Week 3",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:68636",
+        "name": "Dana White Contender Series Season 3, Week 3",
+        "start_date": "2019-07-10",
+        "end_date": "2019-07-12",
+        "year": "2019",
+        "competition_id": "sr:competition:29288"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29290",
+    "name": "Dana White Contender Series, Season 3, Week 4",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:68638",
+        "name": "Dana White Contender Series Season 3, Week 4",
+        "start_date": "2019-07-17",
+        "end_date": "2019-07-19",
+        "year": "2019",
+        "competition_id": "sr:competition:29290"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29498",
+    "name": "UFC Fight Night - Shenzhen",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69140",
+        "name": "UFC Fight Night - Shenzhen 2019",
+        "start_date": "2019-08-31",
+        "end_date": "2019-09-02",
+        "year": "2019",
+        "competition_id": "sr:competition:29498"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29502",
+    "name": "Dana White Contender Series, Season 3, Week 5",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69144",
+        "name": "Dana White Contender Series Season 3, Week 5",
+        "start_date": "2019-07-24",
+        "end_date": "2019-07-27",
+        "year": "2019",
+        "competition_id": "sr:competition:29502"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29504",
+    "name": "Dana White Contender Series, Season 3, Week 6",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69146",
+        "name": "Dana White Contender Series Season 3, Week 6",
+        "start_date": "2019-07-31",
+        "end_date": "2019-08-03",
+        "year": "2019",
+        "competition_id": "sr:competition:29504"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29516",
+    "name": "Dana White Contender Series, Season 3, Week 7",
+    "parent_id": "sr:competition:29216",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69166",
+        "name": "Dana White Contender Series, Season 3, Week 7",
+        "start_date": "2019-08-07",
+        "end_date": "2019-08-10",
+        "year": "2019",
+        "competition_id": "sr:competition:29516"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29696",
+    "name": "Dana White Contender Series, Season 3, Week 8",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69642",
+        "name": "Dana White Contender Series, Season 3, Week 8",
+        "start_date": "2019-08-14",
+        "end_date": "2019-08-17",
+        "year": "2019",
+        "competition_id": "sr:competition:29696"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29764",
+    "name": "Dana White Contender Series, Season 3, Week 9",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69800",
+        "name": "Dana White Contender Series, Season 3, Week 9",
+        "start_date": "2019-08-21",
+        "end_date": "2019-08-24",
+        "year": "2019",
+        "competition_id": "sr:competition:29764"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29808",
+    "name": "UFC Fight Night - Vancouver",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69866",
+        "name": "UFC Fight Night - Vancouver 2019",
+        "start_date": "2019-09-15",
+        "end_date": "2019-09-17",
+        "year": "2019",
+        "competition_id": "sr:competition:29808"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29810",
+    "name": "UFC Fight Night - Mexico City",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:69868",
+        "name": "UFC Fight Night - Mexico City 2019",
+        "start_date": "2019-09-21",
+        "end_date": "2019-09-23",
+        "year": "2019",
+        "competition_id": "sr:competition:29810"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29910",
+    "name": "UFC 243 - Melbourne",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:70214",
+        "name": "UFC 243 - Melbourne",
+        "start_date": "2019-10-06",
+        "end_date": "2019-10-09",
+        "year": "2019",
+        "competition_id": "sr:competition:29910"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29984",
+    "name": "UFC Fight Night Copenhangen",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:70390",
+        "name": "UFC Fight Night - Copenhagen 2019",
+        "start_date": "2019-09-28",
+        "end_date": "2019-09-30",
+        "year": "2019",
+        "competition_id": "sr:competition:29984"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:29986",
+    "name": "UFC Fight Night - Boston",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:70392",
+        "name": "UFC Fight Night - Boston 2019",
+        "start_date": "2019-10-18",
+        "end_date": "2019-10-21",
+        "year": "2019",
+        "competition_id": "sr:competition:29986"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:30076",
+    "name": "Dana White Contender Series, Season 3, Week 10",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:70620",
+        "name": "Dana White Contender Series, Season 3, Week 10",
+        "start_date": "2019-08-27",
+        "end_date": "2019-08-29",
+        "year": "2019",
+        "competition_id": "sr:competition:30076"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:30370",
+    "name": "UFC Fight Night - Tampa",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:71576",
+        "name": "UFC Fight Night - Tampa 2019",
+        "start_date": "2019-10-12",
+        "end_date": "2019-10-14",
+        "year": "2019",
+        "competition_id": "sr:competition:30370"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:30374",
+    "name": "UFC 244 - New York City",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:71584",
+        "name": "UFC 244 - New York City 2019",
+        "start_date": "2019-11-02",
+        "end_date": "2019-11-04",
+        "year": "2019",
+        "competition_id": "sr:competition:30374"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:30376",
+    "name": "UFC Fight Night - Washington",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:71592",
+        "name": "UFC Fight Night - Washington 2019",
+        "start_date": "2019-12-07",
+        "end_date": "2019-12-11",
+        "year": "2019",
+        "competition_id": "sr:competition:30376"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:30378",
+    "name": "UFC 245 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:71594",
+        "name": "UFC 245 - Las Vegas 2019",
+        "start_date": "2019-12-14",
+        "end_date": "2019-12-16",
+        "year": "2019",
+        "competition_id": "sr:competition:30378"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:30380",
+    "name": "UFC Fight Night - Busan",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:71596",
+        "name": "UFC Fight Night - Busan 2019",
+        "start_date": "2019-12-21",
+        "end_date": "2019-12-23",
+        "year": "2019",
+        "competition_id": "sr:competition:30380"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31513",
+    "name": "UFC 246 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74191",
+        "name": "UFC 246 - Las Vegas 2020",
+        "start_date": "2020-01-18",
+        "end_date": "2020-01-20",
+        "year": "2020",
+        "competition_id": "sr:competition:31513"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31517",
+    "name": "UFC Fight Night - Auckland",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74275",
+        "name": "UFC Fight Night - Auckland 2020",
+        "start_date": "2020-02-22",
+        "end_date": "2020-02-24",
+        "year": "2020",
+        "competition_id": "sr:competition:31517"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31549",
+    "name": "UFC Fight Night - Raleigh",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74347",
+        "name": "UFC Fight Night - Raleigh 2020",
+        "start_date": "2020-01-26",
+        "end_date": "2020-01-29",
+        "year": "2020",
+        "competition_id": "sr:competition:31549"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31551",
+    "name": "UFC Fight Night - Rio Rancho",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74351",
+        "name": "UFC Fight Night - Rio Rancho 2020",
+        "start_date": "2020-02-16",
+        "end_date": "2020-02-19",
+        "year": "2020",
+        "competition_id": "sr:competition:31551"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31557",
+    "name": "UFC 247 - Houston",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74365",
+        "name": "UFC 247 - Houston 2020",
+        "start_date": "2020-02-08",
+        "end_date": "2020-02-11",
+        "year": "2020",
+        "competition_id": "sr:competition:31557"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31639",
+    "name": "UFC Fight Night - Norfolk",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74655",
+        "name": "UFC Fight Night - Norfolk 2020",
+        "start_date": "2020-03-01",
+        "end_date": "2020-03-04",
+        "year": "2020",
+        "competition_id": "sr:competition:31639"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31641",
+    "name": "UFC Fight Night - Brasilia",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:74657",
+        "name": "UFC Fight Night - Brasilia 2020",
+        "start_date": "2020-03-15",
+        "end_date": "2020-03-18",
+        "year": "2020",
+        "competition_id": "sr:competition:31641"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:31781",
+    "name": "UFC Fight Night: Blaydes vs. Daukaus",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:91667",
+        "name": "UFC Fight Night: Blaydes vs. Daukaus 2022",
+        "start_date": "2022-03-26",
+        "end_date": "2022-03-27",
+        "year": "2022",
+        "competition_id": "sr:competition:31781"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32029",
+    "name": "UFC 248, Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76321",
+        "name": "UFC 248 - Las Vegas 2020",
+        "start_date": "2020-03-07",
+        "end_date": "2020-03-09",
+        "year": "2020",
+        "competition_id": "sr:competition:32029"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32151",
+    "name": "UFC Fight Night - Portland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76795",
+        "name": "UFC Fight Night - Portland 2020",
+        "start_date": "2020-04-11",
+        "end_date": "2020-04-13",
+        "year": "2020",
+        "competition_id": "sr:competition:32151"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32153",
+    "name": "UFC 249",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76797",
+        "name": "UFC 249  - Jacksonville 2020",
+        "start_date": "2020-05-09",
+        "end_date": "2020-05-11",
+        "year": "2020",
+        "competition_id": "sr:competition:32153"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32155",
+    "name": "UFC Fight Night - Oklahoma",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76801",
+        "name": "UFC Fight Night - Oklahoma 2020",
+        "start_date": "2020-05-02",
+        "end_date": "2020-05-04",
+        "year": "2020",
+        "competition_id": "sr:competition:32155"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32157",
+    "name": "UFC 250 - Las Vegas",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76803",
+        "name": "UFC 250 - Las Vegas 2020",
+        "start_date": "2020-06-05",
+        "end_date": "2020-06-07",
+        "year": "2020",
+        "competition_id": "sr:competition:32157"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32455",
+    "name": "UFC Fight Night - Jacksonville 1",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76991",
+        "name": "UFC Fight Night - Jacksonville 1 - 2020",
+        "start_date": "2020-05-13",
+        "end_date": "2020-05-14",
+        "year": "2020",
+        "competition_id": "sr:competition:32455"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32457",
+    "name": "UFC Fight Night - Jacksonville 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:76993",
+        "name": "UFC Fight Night - Jacksonville 2 - 2020",
+        "start_date": "2020-05-16",
+        "end_date": "2020-05-17",
+        "year": "2020",
+        "competition_id": "sr:competition:32457"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32525",
+    "name": "UFC Fight Night - Las Vegas 1",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77049",
+        "name": "UFC Fight Night - Las Vegas 1 - 2020",
+        "start_date": "2020-05-30",
+        "end_date": "2020-05-31",
+        "year": "2020",
+        "competition_id": "sr:competition:32525"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32573",
+    "name": "UFC Fight Night - Las Vegas 2",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77091",
+        "name": "UFC Fight Night - Las Vegas 2 - 2020",
+        "start_date": "2020-06-13",
+        "end_date": "2020-06-15",
+        "year": "2020",
+        "competition_id": "sr:competition:32573"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32589",
+    "name": "UFC Fight Night - Blaydes vs. Volkov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77097",
+        "name": "UFC Fight Night - Blaydes vs. Volkov 2020",
+        "start_date": "2020-06-20",
+        "end_date": "2020-06-21",
+        "year": "2020",
+        "competition_id": "sr:competition:32589"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32625",
+    "name": "UFC 251 - Usman vs. Masvidal",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77113",
+        "name": "UFC 251 - Usman vs. Masvidal",
+        "start_date": "2020-07-11",
+        "end_date": "2020-07-13",
+        "year": "2020",
+        "competition_id": "sr:competition:32625"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32633",
+    "name": "UFC Fight Night - Poirier vs. Hooker",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77117",
+        "name": "UFC Fight Night - Poirier vs. Hooker 2020",
+        "start_date": "2020-06-27",
+        "end_date": "2020-06-28",
+        "year": "2020",
+        "competition_id": "sr:competition:32633"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32655",
+    "name": "UFC Fight Night - Brunson vs Shahbazyan",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77127",
+        "name": "UFC Fight Night - Brunson vs Shahbazyan 2020",
+        "start_date": "2020-08-01",
+        "end_date": "2020-08-04",
+        "year": "2020",
+        "competition_id": "sr:competition:32655"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32657",
+    "name": "UFC 252 - Miocic vs. Cormier",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77129",
+        "name": "UFC 252 - Miocic vs. Cormier 2020",
+        "start_date": "2020-08-15",
+        "end_date": "2020-08-17",
+        "year": "2020",
+        "competition_id": "sr:competition:32657"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32671",
+    "name": "UFC Fight Night - Kattar vs. Ige",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77145",
+        "name": "UFC Fight Night - Kattar vs. Ige - 2020",
+        "start_date": "2020-07-15",
+        "end_date": "2020-07-17",
+        "year": "2020",
+        "competition_id": "sr:competition:32671"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32673",
+    "name": "UFC Fight Night - Figueiredo vs. Benavidez",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77147",
+        "name": "UFC Fight Night - Figueiredo vs. Benavidez - 2020",
+        "start_date": "2020-07-18",
+        "end_date": "2020-07-19",
+        "year": "2020",
+        "competition_id": "sr:competition:32673"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32675",
+    "name": "UFC Fight Night - Whittaker vs. Till",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77149",
+        "name": "UFC Fight Night - Whittaker vs. Till",
+        "start_date": "2020-07-25",
+        "end_date": "2020-07-27",
+        "year": "2020",
+        "competition_id": "sr:competition:32675"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32903",
+    "name": "UFC 253 - Adesanya vs. Costa",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77367",
+        "name": "UFC 253 - Adesanya vs. Costa 2020",
+        "start_date": "2020-09-25",
+        "end_date": "2020-09-28",
+        "year": "2020",
+        "competition_id": "sr:competition:32903"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32929",
+    "name": "UFC 254, Khabib vs. Gaethje",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77483",
+        "name": "UFC 254, Khabib vs. Gaethje 2020",
+        "start_date": "2020-10-24",
+        "end_date": "2020-10-26",
+        "year": "2020",
+        "competition_id": "sr:competition:32929"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32931",
+    "name": "UFC Fight Night - Lewis vs Oleinik",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77487",
+        "name": "UFC Fight Night - Lewis vs Oleinik 2020",
+        "start_date": "2020-08-08",
+        "end_date": "2020-08-11",
+        "year": "2020",
+        "competition_id": "sr:competition:32931"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32933",
+    "name": "Dana White's Contender Series: Season 4, Week 1",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77489",
+        "name": "Dana White's Contender Series: Season 4, Week 1 2020",
+        "start_date": "2020-08-04",
+        "end_date": "2020-08-07",
+        "year": "2020",
+        "competition_id": "sr:competition:32933"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32935",
+    "name": "Dana White's Contender Series: Season 4, Week 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77491",
+        "name": "Dana White's Contender Series: Season 4, Week 2 2020",
+        "start_date": "2020-08-11",
+        "end_date": "2020-08-14",
+        "year": "2020",
+        "competition_id": "sr:competition:32935"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32937",
+    "name": "Dana White's Contender Series: Season 4, Week 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77493",
+        "name": "Dana White's Contender Series: Season 4, Week 3 2020",
+        "start_date": "2020-08-18",
+        "end_date": "2020-08-21",
+        "year": "2020",
+        "competition_id": "sr:competition:32937"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32939",
+    "name": "Dana White's Contender Series: Season 4, Week 4",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77495",
+        "name": "Dana White's Contender Series: Season 4, Week 4 2020",
+        "start_date": "2020-08-25",
+        "end_date": "2020-08-28",
+        "year": "2020",
+        "competition_id": "sr:competition:32939"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:32967",
+    "name": "UFC Fight Night - Edgar vs. Munhoz",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77697",
+        "name": "UFC Fight Night - Edgar vs. Munhoz 2020",
+        "start_date": "2020-08-22",
+        "end_date": "2020-08-25",
+        "year": "2020",
+        "competition_id": "sr:competition:32967"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33063",
+    "name": "UFC Fight Night - Smith vs. Rakic",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77973",
+        "name": "UFC Fight Night - Smith vs. Rakic 2020",
+        "start_date": "2020-08-29",
+        "end_date": "2020-08-31",
+        "year": "2020",
+        "competition_id": "sr:competition:33063"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33065",
+    "name": "Dana White's Contender Series: Season 4, Week 5",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77981",
+        "name": "Dana White's Contender Series: Season 4, Week 5 2020",
+        "start_date": "2020-09-01",
+        "end_date": "2020-09-04",
+        "year": "2020",
+        "competition_id": "sr:competition:33065"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33067",
+    "name": "UFC Fight Night: Overeem vs. Sakai",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77983",
+        "name": "UFC Fight Night: Overeem vs. Sakai 2020",
+        "start_date": "2020-09-04",
+        "end_date": "2020-09-07",
+        "year": "2020",
+        "competition_id": "sr:competition:33067"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33069",
+    "name": "UFC Fight Night: Santos vs. Teixeira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77985",
+        "name": "UFC Fight Night: Santos vs. Teixeira 2020",
+        "start_date": "2020-09-11",
+        "end_date": "2020-09-14",
+        "year": "2020",
+        "competition_id": "sr:competition:33069"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33071",
+    "name": "UFC Fight Night: Covington vs. Woodley",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77987",
+        "name": "UFC Fight Night: Covington vs. Woodley 2020",
+        "start_date": "2020-09-18",
+        "end_date": "2020-09-21",
+        "year": "2020",
+        "competition_id": "sr:competition:33071"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33073",
+    "name": "UFC Fight Night: Holm vs. Aldana",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:77989",
+        "name": "UFC Fight Night: Holm vs. Aldana 2020",
+        "start_date": "2020-10-02",
+        "end_date": "2020-10-05",
+        "year": "2020",
+        "competition_id": "sr:competition:33073"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33119",
+    "name": "MMA.UFC.Dana White's Contender Series: Season 4, Week 6",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:78257",
+        "name": "Dana White's Contender Series: Season 4, Week 6 2020",
+        "start_date": "2020-09-09",
+        "end_date": "2020-09-10",
+        "year": "2020",
+        "competition_id": "sr:competition:33119"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33121",
+    "name": "MMA.UFC.Dana White's Contender Series: Season 4, Week 7",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:78259",
+        "name": "Dana White's Contender Series: Season 4, Week 7 2020",
+        "start_date": "2020-09-16",
+        "end_date": "2020-09-17",
+        "year": "2020",
+        "competition_id": "sr:competition:33121"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33137",
+    "name": "UFC Fight Night: Waterson vs. Hill 2020",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:78307",
+        "name": "UFC Fight Night: Waterson vs. Hill 2020",
+        "start_date": "2020-09-12",
+        "end_date": "2020-09-14",
+        "year": "2020",
+        "competition_id": "sr:competition:33137"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33233",
+    "name": "UFC Fight Night: Moraes vs Sandhagen",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:78895",
+        "name": "UFC Fight Night: Moraes vs Sandhagen 2020",
+        "start_date": "2020-10-10",
+        "end_date": "2020-10-13",
+        "year": "2020",
+        "competition_id": "sr:competition:33233"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33235",
+    "name": "UFC Fight Night: Ortega vs. The Korean Zombie",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:78897",
+        "name": "UFC Fight Night: Ortega vs. The Korean Zombie 2020",
+        "start_date": "2020-10-17",
+        "end_date": "2020-10-20",
+        "year": "2020",
+        "competition_id": "sr:competition:33235"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33267",
+    "name": "UFC Fight Night - Hall vs. Silva",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79071",
+        "name": "UFC Fight Night - Hall vs. Silva 2020",
+        "start_date": "2020-10-31",
+        "end_date": "2020-11-03",
+        "year": "2020",
+        "competition_id": "sr:competition:33267"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33297",
+    "name": "MMA.UFC.Dana White's Contender Series: Season 4, Week 8",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79325",
+        "name": "Dana White's Contender Series: Season 4, Week 8 2020",
+        "start_date": "2020-11-04",
+        "end_date": "2020-11-07",
+        "year": "2020",
+        "competition_id": "sr:competition:33297"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33299",
+    "name": "MMA.UFC.Dana White's Contender Series: Season 4, Week 9",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79327",
+        "name": "Dana White's Contender Series: Season 4, Week 9 2020",
+        "start_date": "2020-11-10",
+        "end_date": "2020-11-14",
+        "year": "2020",
+        "competition_id": "sr:competition:33299"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33301",
+    "name": "MMA.UFC.Dana White's Contender Series: Season 4, Week 10",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79329",
+        "name": "Dana White's Contender Series: Season 4, Week 10 2020",
+        "start_date": "2020-11-17",
+        "end_date": "2020-11-21",
+        "year": "2020",
+        "competition_id": "sr:competition:33301"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33303",
+    "name": "UFC Fight Night: Santos vs. Teixeira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79331",
+        "name": "UFC Fight Night: Santos vs. Teixeira 2020",
+        "start_date": "2020-11-07",
+        "end_date": "2020-11-11",
+        "year": "2020",
+        "competition_id": "sr:competition:33303"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33305",
+    "name": "UFC 255 - Figueiredo vs. Perez",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79333",
+        "name": "UFC 255 - Figueiredo vs. Perez 2020",
+        "start_date": "2020-11-20",
+        "end_date": "2020-11-23",
+        "year": "2020",
+        "competition_id": "sr:competition:33305"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33359",
+    "name": "UFC Fight Night - Felder vs. Dos Anjos",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79603",
+        "name": "UFC Fight Night - Felder vs. Dos Anjos 2020",
+        "start_date": "2020-11-13",
+        "end_date": "2020-11-15",
+        "year": "2020",
+        "competition_id": "sr:competition:33359"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33406",
+    "name": "UFC Fight Night - Smith vs. Clark",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79760",
+        "name": "UFC Fight Night - Smith vs. Clark 2020",
+        "start_date": "2020-11-28",
+        "end_date": "2020-11-30",
+        "year": "2020",
+        "competition_id": "sr:competition:33406"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33434",
+    "name": "UFC Fight Night - Hermansson vs. Vettori",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79886",
+        "name": "UFC Fight Night - Hermansson vs. Vettori 2020",
+        "start_date": "2020-12-05",
+        "end_date": "2020-12-07",
+        "year": "2020",
+        "competition_id": "sr:competition:33434"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33440",
+    "name": "UFC 256 - Figueiredo vs. Moreno",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:79898",
+        "name": "UFC 256 - Figueiredo vs. Moreno 2020",
+        "start_date": "2020-12-11",
+        "end_date": "2020-12-13",
+        "year": "2020",
+        "competition_id": "sr:competition:33440"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33466",
+    "name": "UFC Fight Night: Thompson vs. Neal",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:80090",
+        "name": "UFC Fight Night: Thompson vs. Neal 2020",
+        "start_date": "2020-12-18",
+        "end_date": "2020-12-20",
+        "year": "2020",
+        "competition_id": "sr:competition:33466"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33526",
+    "name": "UFC Fight Night: Holloway vs. Kattar",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:80284",
+        "name": "UFC Fight Night: Holloway vs. Kattar 2021",
+        "start_date": "2021-01-15",
+        "end_date": "2021-01-17",
+        "year": "2021",
+        "competition_id": "sr:competition:33526"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33530",
+    "name": "UFC 257: Poirier vs. McGregor 2",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:80288",
+        "name": "UFC 257: Poirier vs. McGregor 2",
+        "start_date": "2021-01-22",
+        "end_date": "2021-01-24",
+        "year": "2021",
+        "competition_id": "sr:competition:33530"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33582",
+    "name": "UFC Fight Night: Chiesa vs. Magny",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:80748",
+        "name": "UFC Fight Night: Chiesa vs. Magny 2021",
+        "start_date": "2021-01-19",
+        "end_date": "2021-01-24",
+        "year": "2021",
+        "competition_id": "sr:competition:33582"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33716",
+    "name": "UFC Fight Night: Overeem vs. Volkov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81176",
+        "name": "UFC Fight Night: Overeem vs. Volkov 2021",
+        "start_date": "2021-02-05",
+        "end_date": "2021-02-07",
+        "year": "2021",
+        "competition_id": "sr:competition:33716"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33780",
+    "name": "UFC 258: Usman vs. Burns",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81398",
+        "name": "UFC 258: Usman vs. Burns",
+        "start_date": "2021-02-13",
+        "end_date": "2021-02-14",
+        "year": "2021",
+        "competition_id": "sr:competition:33780"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33792",
+    "name": "UFC Fight Night - Blaydes vs. Lewis",
+    "parent_id": "sr:competition:25325",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81496",
+        "name": "UFC Fight Night - Blaydes vs. Lewis 2021",
+        "start_date": "2021-02-19",
+        "end_date": "2021-02-21",
+        "year": "2021",
+        "competition_id": "sr:competition:33792"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33796",
+    "name": "UFC Fight Night - Blaydes vs. Lewis",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81498",
+        "name": "UFC Fight Night - Blaydes vs. Lewis",
+        "start_date": "2021-02-20",
+        "end_date": "2021-02-21",
+        "year": "2021",
+        "competition_id": "sr:competition:33796"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33800",
+    "name": "UFC Fight Night: Rozenstruik vs. Gane",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81682",
+        "name": "UFC Fight Night: Rozenstruik vs. Gane",
+        "start_date": "2021-02-27",
+        "end_date": "2021-02-28",
+        "year": "2021",
+        "competition_id": "sr:competition:33800"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33850",
+    "name": "UFC 259: Blachowicz vs. Adesanya",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81812",
+        "name": "UFC 259: Blachowicz vs. Adesanya",
+        "start_date": "2021-03-06",
+        "end_date": "2021-03-07",
+        "year": "2021",
+        "competition_id": "sr:competition:33850"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33926",
+    "name": "UFC Fight Night - Edwards vs. Muhammad",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:81986",
+        "name": "UFC Fight Night - Edwards vs. Muhammad",
+        "start_date": "2021-03-13",
+        "end_date": "2021-03-14",
+        "year": "2021",
+        "competition_id": "sr:competition:33926"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:33974",
+    "name": "UFC Fight Night - Brunson vs. Holland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:82104",
+        "name": "UFC Fight Night - Brunson vs. Holland",
+        "start_date": "2021-03-20",
+        "end_date": "2021-03-21",
+        "year": "2021",
+        "competition_id": "sr:competition:33974"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34022",
+    "name": "UFC 260: Miocic vs. Francis Ngannou",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:82290",
+        "name": "UFC 260: Miocic vs. Francis Ngannou",
+        "start_date": "2021-03-27",
+        "end_date": "2021-03-28",
+        "year": "2021",
+        "competition_id": "sr:competition:34022"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34084",
+    "name": "UFC Fight Night - Holland vs. Vettori",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:82576",
+        "name": "UFC Fight Night - Holland vs. Vettori",
+        "start_date": "2021-04-10",
+        "end_date": "2021-04-11",
+        "year": "2021",
+        "competition_id": "sr:competition:34084"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34108",
+    "name": "UFC Fight Night - Whittaker vs. Gastelum",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:82686",
+        "name": "UFC Fight Night - Whittaker vs. Gastelum",
+        "start_date": "2021-04-17",
+        "end_date": "2021-04-19",
+        "year": "2021",
+        "competition_id": "sr:competition:34108"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34166",
+    "name": "UFC 261: Usman vs. Masvidal",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:82798",
+        "name": "UFC 261: Usman vs. Masvidal",
+        "start_date": "2021-04-24",
+        "end_date": "2021-04-25",
+        "year": "2021",
+        "competition_id": "sr:competition:34166"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34222",
+    "name": "UFC Fight Night - Reyes vs. Prochazka",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:82948",
+        "name": "UFC Fight Night - Reyes vs. Prochazka 2021",
+        "start_date": "2021-04-30",
+        "end_date": "2021-05-02",
+        "year": "2021",
+        "competition_id": "sr:competition:34222"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34276",
+    "name": "UFC Fight Night - Waterson vs Rodriguez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:83120",
+        "name": "UFC Fight Night - Waterson vs Rodriguez 2021",
+        "start_date": "2021-05-08",
+        "end_date": "2021-05-09",
+        "year": "2021",
+        "competition_id": "sr:competition:34276"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34294",
+    "name": "UFC 262: Oliveira vs. Chandler",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:83248",
+        "name": "UFC 262: Oliveira vs. Chandler 2021",
+        "start_date": "2021-05-15",
+        "end_date": "2021-05-16",
+        "year": "2021",
+        "competition_id": "sr:competition:34294"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34334",
+    "name": "UFC Fight Night: Font vs. Garbrandt",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:83430",
+        "name": "UFC Fight Night: Font vs. Garbrandt 2021",
+        "start_date": "2021-05-22",
+        "end_date": "2021-05-23",
+        "year": "2021",
+        "competition_id": "sr:competition:34334"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34420",
+    "name": "UFC Fight Night - Rozenstruik vs. Sakai",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:83738",
+        "name": "UFC Fight Night - Rozenstruik vs. Sakai",
+        "start_date": "2021-06-05",
+        "end_date": "2021-06-06",
+        "year": "2021",
+        "competition_id": "sr:competition:34420"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34462",
+    "name": "UFC 263: Adesanya vs. Vettori",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:83896",
+        "name": "UFC 263: Adesanya vs. Vettori",
+        "start_date": "2021-06-12",
+        "end_date": "2021-06-13",
+        "year": "2021",
+        "competition_id": "sr:competition:34462"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34494",
+    "name": "UFC Fight Night - The Korean Zombie vs. Ige",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84084",
+        "name": "UFC Fight Night - The Korean Zombie vs. Ige",
+        "start_date": "2021-06-19",
+        "end_date": "2021-06-20",
+        "year": "2021",
+        "competition_id": "sr:competition:34494"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34530",
+    "name": "UFC Fight Night - Gane vs. Volkov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84228",
+        "name": "UFC Fight Night - Gane vs. Volkov 2021",
+        "start_date": "2021-06-26",
+        "end_date": "2021-06-27",
+        "year": "2021",
+        "competition_id": "sr:competition:34530"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34550",
+    "name": "UFC 264: Poirier vs. McGregor 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84356",
+        "name": "UFC 264: Poirier vs. McGregor 3 2021",
+        "start_date": "2021-07-10",
+        "end_date": "2021-07-11",
+        "year": "2021",
+        "competition_id": "sr:competition:34550"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34552",
+    "name": "UFC Fight Night - Makhachev vs. Moises",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84358",
+        "name": "UFC Fight Night - Makhachev vs. Moises 2021",
+        "start_date": "2021-07-17",
+        "end_date": "2021-07-18",
+        "year": "2021",
+        "competition_id": "sr:competition:34552"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34566",
+    "name": "UFC Fight Night - Sandhagen vs. Dillashaw",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84430",
+        "name": "UFC Fight Night - Sandhagen vs. Dillashaw 2021",
+        "start_date": "2021-07-24",
+        "end_date": "2021-07-25",
+        "year": "2021",
+        "competition_id": "sr:competition:34566"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34568",
+    "name": "UFC 265: Lewis vs. Gane",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84432",
+        "name": "UFC 265: Lewis vs. Gane 2021",
+        "start_date": "2021-08-07",
+        "end_date": "2021-08-08",
+        "year": "2021",
+        "competition_id": "sr:competition:34568"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34570",
+    "name": "UFC Fight Night - Cannonier vs. Gastelum",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84434",
+        "name": "UFC Fight Night - Cannonier vs. Gastelum 2021",
+        "start_date": "2021-08-21",
+        "end_date": "2021-08-22",
+        "year": "2021",
+        "competition_id": "sr:competition:34570"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34572",
+    "name": "UFC 266: Volkanovski vs. Ortega",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84436",
+        "name": "UFC 266: Volkanovski vs. Ortega 2021",
+        "start_date": "2021-09-25",
+        "end_date": "2021-09-26",
+        "year": "2021",
+        "competition_id": "sr:competition:34572"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34610",
+    "name": "UFC Fight Night - Hall vs. Strickland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:84626",
+        "name": "UFC Fight Night - Hall vs. Strickland 2021",
+        "start_date": "2021-07-31",
+        "end_date": "2021-08-01",
+        "year": "2021",
+        "competition_id": "sr:competition:34610"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34824",
+    "name": "Dana White's Contender Series: Season 5, Week 1",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:85382",
+        "name": "Dana White's Contender Series: Season 5, Week 1 2021",
+        "start_date": "2021-08-31",
+        "end_date": "2021-09-01",
+        "year": "2021",
+        "competition_id": "sr:competition:34824"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34826",
+    "name": "Dana White's Contender Series: Season 5, Week 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:85384",
+        "name": "Dana White's Contender Series: Season 5, Week 2 2021",
+        "start_date": "2021-09-07",
+        "end_date": "2021-09-08",
+        "year": "2021",
+        "competition_id": "sr:competition:34826"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34828",
+    "name": "Dana White's Contender Series: Season 5, Week 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:85386",
+        "name": "Dana White's Contender Series: Season 5, Week 3 2021",
+        "start_date": "2021-09-14",
+        "end_date": "2021-09-15",
+        "year": "2021",
+        "competition_id": "sr:competition:34828"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34830",
+    "name": "Dana White's Contender Series: Season 5, Week 4",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:85388",
+        "name": "Dana White's Contender Series: Season 5, Week 4 2021",
+        "start_date": "2021-09-21",
+        "end_date": "2021-09-22",
+        "year": "2021",
+        "competition_id": "sr:competition:34830"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34832",
+    "name": "Dana White's Contender Series: Season 5, Week 5",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:85390",
+        "name": "Dana White's Contender Series: Season 5, Week 5 2021",
+        "start_date": "2021-09-28",
+        "end_date": "2021-09-29",
+        "year": "2021",
+        "competition_id": "sr:competition:34832"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34878",
+    "name": "UFC Fight Night - Barboza vs. Chikadze",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:85670",
+        "name": "UFC Fight Night - Barboza vs. Chikadze 2021",
+        "start_date": "2021-08-28",
+        "end_date": "2021-08-29",
+        "year": "2021",
+        "competition_id": "sr:competition:34878"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:34976",
+    "name": "UFC Fight Night - Brunson vs. Till",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86048",
+        "name": "UFC Fight Night - Brunson vs. Till 2021",
+        "start_date": "2021-09-04",
+        "end_date": "2021-09-05",
+        "year": "2021",
+        "competition_id": "sr:competition:34976"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35064",
+    "name": "UFC Fight Night - Smith vs. Spann",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86304",
+        "name": "UFC Fight Night - Smith vs. Spann 2021",
+        "start_date": "2021-09-18",
+        "end_date": "2021-09-19",
+        "year": "2021",
+        "competition_id": "sr:competition:35064"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35066",
+    "name": "UFC 267: Blachowicz vs. Teixeira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86306",
+        "name": "UFC 267: Blachowicz vs. Teixeira 2021",
+        "start_date": "2021-10-30",
+        "end_date": "2021-10-31",
+        "year": "2021",
+        "competition_id": "sr:competition:35066"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35092",
+    "name": "UFC Fight Night - Santos vs. Walker",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86532",
+        "name": "UFC Fight Night - Santos vs. Walker 2021",
+        "start_date": "2021-10-02",
+        "end_date": "2021-10-03",
+        "year": "2021",
+        "competition_id": "sr:competition:35092"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35144",
+    "name": "UFC Fight Night - Dern vs. Rodriguez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86726",
+        "name": "UFC Fight Night - Dern vs. Rodriguez 2021",
+        "start_date": "2021-10-09",
+        "end_date": "2021-10-10",
+        "year": "2021",
+        "competition_id": "sr:competition:35144"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35146",
+    "name": "Dana White's Contender Series: Season 5, Week 6",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86728",
+        "name": "Dana White's Contender Series: Season 5, Week 6 2021",
+        "start_date": "2021-10-05",
+        "end_date": "2021-10-06",
+        "year": "2021",
+        "competition_id": "sr:competition:35146"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35148",
+    "name": "Dana White's Contender Series: Season 5, Week 7",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86730",
+        "name": "Dana White's Contender Series: Season 5, Week 7 2021",
+        "start_date": "2021-10-12",
+        "end_date": "2021-10-13",
+        "year": "2021",
+        "competition_id": "sr:competition:35148"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35150",
+    "name": "UFC 268: Usman vs. Covington 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86732",
+        "name": "UFC 268: Usman vs. Covington 2 2021",
+        "start_date": "2021-11-06",
+        "end_date": "2021-11-07",
+        "year": "2021",
+        "competition_id": "sr:competition:35150"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35228",
+    "name": "UFC 269: Oliveira vs. Poirier",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86942",
+        "name": "UFC 269: Oliveira vs. Poirier 2021",
+        "start_date": "2021-12-11",
+        "end_date": "2021-12-12",
+        "year": "2021",
+        "competition_id": "sr:competition:35228"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35230",
+    "name": "UFC Fight Night - Ladd vs. Dumont",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:86944",
+        "name": "UFC Fight Night - Ladd vs. Dumont 2021",
+        "start_date": "2021-10-16",
+        "end_date": "2021-10-17",
+        "year": "2021",
+        "competition_id": "sr:competition:35230"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35284",
+    "name": "UFC Fight Night - Costa vs. Vettori",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87034",
+        "name": "UFC Fight Night - Costa vs. Vettori 2021",
+        "start_date": "2021-10-23",
+        "end_date": "2021-10-24",
+        "year": "2021",
+        "competition_id": "sr:competition:35284"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35398",
+    "name": "UFC Fight Night - Holloway vs. Rodriguez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87634",
+        "name": "UFC Fight Night - Holloway vs. Rodriguez 2021",
+        "start_date": "2021-11-13",
+        "end_date": "2021-11-14",
+        "year": "2021",
+        "competition_id": "sr:competition:35398"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35452",
+    "name": "UFC Fight Night - Font vs. Aldo",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87750",
+        "name": "UFC Fight Night - Font vs. Aldo 2021",
+        "start_date": "2021-12-04",
+        "end_date": "2021-12-05",
+        "year": "2021",
+        "competition_id": "sr:competition:35452"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35454",
+    "name": "UFC Fight Night - Lewis vs. Daukas",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87752",
+        "name": "UFC Fight Night - Lewis vs. Daukas 2021",
+        "start_date": "2021-12-18",
+        "end_date": "2021-12-19",
+        "year": "2021",
+        "competition_id": "sr:competition:35454"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35456",
+    "name": "UFC Fight Night - Vieira vs. Tate",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87754",
+        "name": "UFC Fight Night - Vieira vs. Tate 2021",
+        "start_date": "2021-11-20",
+        "end_date": "2021-11-21",
+        "year": "2021",
+        "competition_id": "sr:competition:35456"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35480",
+    "name": "Dana White's Contender Series: Season 5, Week 10",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87888",
+        "name": "Dana White's Contender Series: Season 5, Week 10 2021",
+        "start_date": "2021-11-02",
+        "end_date": "2021-11-03",
+        "year": "2021",
+        "competition_id": "sr:competition:35480"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35482",
+    "name": "Dana White's Contender Series: Season 5, Week 9",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87890",
+        "name": "Dana White's Contender Series: Season 5, Week 9 2021",
+        "start_date": "2021-10-26",
+        "end_date": "2021-10-27",
+        "year": "2021",
+        "competition_id": "sr:competition:35482"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35484",
+    "name": "Dana White's Contender Series: Season 5, Week 8",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:87892",
+        "name": "Dana White's Contender Series: Season 5, Week 8 2021",
+        "start_date": "2021-10-19",
+        "end_date": "2021-10-20",
+        "year": "2021",
+        "competition_id": "sr:competition:35484"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35629",
+    "name": "UFC 270: Ngannou vs. Gane",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:88395",
+        "name": "UFC 270: Ngannou vs. Gane 2022",
+        "start_date": "2022-01-22",
+        "end_date": "2022-01-23",
+        "year": "2022",
+        "competition_id": "sr:competition:35629"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35849",
+    "name": "UFC Fight Night - Kattar vs. Chikadze",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:89105",
+        "name": "UFC Fight Night - Kattar vs. Chikadze 2022",
+        "start_date": "2022-01-15",
+        "end_date": "2022-01-16",
+        "year": "2022",
+        "competition_id": "sr:competition:35849"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35945",
+    "name": "UFC 271: Adesanya vs. Whittaker 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:89595",
+        "name": "UFC 271: Adesanya vs. Whittaker 2 2022",
+        "start_date": "2022-02-12",
+        "end_date": "2022-02-13",
+        "year": "2022",
+        "competition_id": "sr:competition:35945"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35947",
+    "name": "UFC 272",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:89597",
+        "name": "UFC 272 2022",
+        "start_date": "2022-03-05",
+        "end_date": "2022-03-06",
+        "year": "2022",
+        "competition_id": "sr:competition:35947"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35949",
+    "name": "UFC Fight Night - Blachowicz vs. Rakic",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:92681",
+        "name": "UFC Fight Night - Blachowicz vs. Rakic 2022",
+        "start_date": "2022-05-14",
+        "end_date": "2022-05-15",
+        "year": "2022",
+        "competition_id": "sr:competition:35949"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35965",
+    "name": "UFC Fight Night - Hermansson vs. Strickland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:89707",
+        "name": "UFC Fight Night - Hermansson vs. Strickland 2022",
+        "start_date": "2022-02-05",
+        "end_date": "2022-02-06",
+        "year": "2022",
+        "competition_id": "sr:competition:35965"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35973",
+    "name": "UFC Fight Night - Santos vs. Ankalaev",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:89763",
+        "name": "UFC Fight Night - Santos vs. Ankalaev 2022",
+        "start_date": "2022-03-12",
+        "end_date": "2022-03-13",
+        "year": "2022",
+        "competition_id": "sr:competition:35973"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:35977",
+    "name": "UFC Fight Night - Makhachev vs. Green",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:89825",
+        "name": "UFC Fight Night - Makhachev vs. Green 2022",
+        "start_date": "2022-02-26",
+        "end_date": "2022-02-27",
+        "year": "2022",
+        "competition_id": "sr:competition:35977"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36053",
+    "name": "UFC Fight Night: Walker vs. Hill",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:90135",
+        "name": "UFC Fight Night: Walker vs. Hill 2022",
+        "start_date": "2022-02-19",
+        "end_date": "2022-02-20",
+        "year": "2022",
+        "competition_id": "sr:competition:36053"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36131",
+    "name": "UFC Fight Night: Volkov vs. Aspinall",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:90587",
+        "name": "UFC Fight Night: Volkov vs. Aspinall 2022",
+        "start_date": "2022-03-19",
+        "end_date": "2022-03-20",
+        "year": "2022",
+        "competition_id": "sr:competition:36131"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36181",
+    "name": "UFC 273: Volkanovski vs. Korean Zombie",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:91003",
+        "name": "UFC 273: Volkanovski vs. Korean Zombie 2022",
+        "start_date": "2022-04-09",
+        "end_date": "2022-04-10",
+        "year": "2022",
+        "competition_id": "sr:competition:36181"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36183",
+    "name": "UFC Fight Night - Luque vs. Muhammad 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:91005",
+        "name": "UFC Fight Night - Luque vs. Muhammad 2 2022",
+        "start_date": "2022-04-16",
+        "end_date": "2022-04-17",
+        "year": "2022",
+        "competition_id": "sr:competition:36183"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36185",
+    "name": "UFC Fight Night - Lemos vs. Andrade",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:91007",
+        "name": "UFC Fight Night - Lemos vs. Andrade 2022",
+        "start_date": "2022-04-23",
+        "end_date": "2022-04-24",
+        "year": "2022",
+        "competition_id": "sr:competition:36185"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36313",
+    "name": "UFC Fight Night: Font vs. Vera",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:91497",
+        "name": "UFC Fight Night: Font vs. Vera 2022",
+        "start_date": "2022-04-30",
+        "end_date": "2022-05-01",
+        "year": "2022",
+        "competition_id": "sr:competition:36313"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36367",
+    "name": "UFC 274: Oliveira vs. Gaethje",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:91801",
+        "name": "UFC 274: Oliveira vs. Gaethje 2022",
+        "start_date": "2022-05-07",
+        "end_date": "2022-05-08",
+        "year": "2022",
+        "competition_id": "sr:competition:36367"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36521",
+    "name": "UFC 275: Teixeira vs. Prochazka",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:92463",
+        "name": "UFC 275: Teixeira vs. Prochazka 2022",
+        "start_date": "2022-06-11",
+        "end_date": "2022-06-12",
+        "year": "2022",
+        "competition_id": "sr:competition:36521"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36523",
+    "name": "UFC Fight Night: Holm vs. Vieira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:92473",
+        "name": "UFC Fight Night: Holm vs. Vieira 2022",
+        "start_date": "2022-05-21",
+        "end_date": "2022-05-22",
+        "year": "2022",
+        "competition_id": "sr:competition:36523"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36525",
+    "name": "UFC Fight Night: Blachowicz vs. Rakic",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:92483",
+        "name": "UFC Fight Night: Blachowicz vs. Rakic 2022",
+        "start_date": "2022-05-14",
+        "end_date": "2022-05-15",
+        "year": "2022",
+        "competition_id": "sr:competition:36525"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36597",
+    "name": "UFC Fight Night: Volkov vs. Rozenstruik",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:92839",
+        "name": "UFC Fight Night: Volkov vs. Rozenstruik 2022",
+        "start_date": "2022-06-04",
+        "end_date": "2022-06-05",
+        "year": "2022",
+        "competition_id": "sr:competition:36597"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36645",
+    "name": "UFC Fight Night - London",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93009",
+        "name": "UFC Fight Night: Blaydes vs. Aspinall 2022",
+        "start_date": "2022-07-23",
+        "end_date": "2022-07-24",
+        "year": "2022",
+        "competition_id": "sr:competition:36645"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36647",
+    "name": "UFC Fight Night: Dos Anjos vs. Fiziev",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93011",
+        "name": "UFC Fight Night: Dos Anjos vs. Fiziev 2022",
+        "start_date": "2022-07-09",
+        "end_date": "2022-07-10",
+        "year": "2022",
+        "competition_id": "sr:competition:36647"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36649",
+    "name": "UFC 276: Adesanya vs. Cannonier",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93013",
+        "name": "UFC 276: Adesanya vs. Cannonier",
+        "start_date": "2022-07-02",
+        "end_date": "2022-07-03",
+        "year": "2022",
+        "competition_id": "sr:competition:36649"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36665",
+    "name": "UFC Fight Night: Kattar vs. Emmett",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93125",
+        "name": "UFC Fight Night: Kattar vs. Emmett 2022",
+        "start_date": "2022-06-18",
+        "end_date": "2022-06-19",
+        "year": "2022",
+        "competition_id": "sr:competition:36665"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36857",
+    "name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93621",
+        "name": "UFC Fight Night: Tsarukyan vs. Gamrot",
+        "start_date": "2022-06-25",
+        "end_date": "2022-06-26",
+        "year": "2022",
+        "competition_id": "sr:competition:36857"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36885",
+    "name": "UFC 277: Pena vs Nunes 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93739",
+        "name": "UFC 277: Pena vs Nunes 2 2022",
+        "start_date": "2022-07-30",
+        "end_date": "2022-07-31",
+        "year": "2022",
+        "competition_id": "sr:competition:36885"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36933",
+    "name": "UFC Fight Night: Ortega vs. Rodriguez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93971",
+        "name": "UFC Fight Night: Ortega vs. Rodriguez 2022",
+        "start_date": "2022-07-16",
+        "end_date": "2022-07-17",
+        "year": "2022",
+        "competition_id": "sr:competition:36933"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36935",
+    "name": "UFC Fight Night: Santos vs. Hill",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:93973",
+        "name": "UFC Fight Night: Santos vs. Hill 2022",
+        "start_date": "2022-08-06",
+        "end_date": "2022-08-07",
+        "year": "2022",
+        "competition_id": "sr:competition:36935"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:36991",
+    "name": "UFC Fight Night: Gane vs. Tuivasa",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94181",
+        "name": "UFC Fight Night: Gane vs. Tuivasa 2022",
+        "start_date": "2022-09-03",
+        "end_date": "2022-09-04",
+        "year": "2022",
+        "competition_id": "sr:competition:36991"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37041",
+    "name": "UFC 278: Usman vs. Edwards 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94429",
+        "name": "UFC 278: Usman vs. Edwards 2 2022",
+        "start_date": "2022-08-20",
+        "end_date": "2022-08-21",
+        "year": "2022",
+        "competition_id": "sr:competition:37041"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37043",
+    "name": "Dana White Contender Series: Season 6, Week 4",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94431",
+        "name": "Dana White Contender Series: Season 6, Week 4 2022",
+        "start_date": "2022-08-16",
+        "end_date": "2022-08-17",
+        "year": "2022",
+        "competition_id": "sr:competition:37043"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37045",
+    "name": "Dana White Contender Series: Season 6, Week 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94433",
+        "name": "Dana White Contender Series: Season 6, Week 3 2022",
+        "start_date": "2022-08-09",
+        "end_date": "2022-08-10",
+        "year": "2022",
+        "competition_id": "sr:competition:37045"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37047",
+    "name": "Dana White Contender Series: Season 6, Week 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94435",
+        "name": "Dana White Contender Series: Season 6, Week 2 2022",
+        "start_date": "2022-08-02",
+        "end_date": "2022-08-03",
+        "year": "2022",
+        "competition_id": "sr:competition:37047"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37049",
+    "name": "Dana White Contender Series: Season 6, Week 1",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94437",
+        "name": "Dana White Contender Series: Season 6, Week 1 2022",
+        "start_date": "2022-07-26",
+        "end_date": "2022-07-27",
+        "year": "2022",
+        "competition_id": "sr:competition:37049"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37125",
+    "name": "UFC Fight Night: Vera vs. Cruz",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94683",
+        "name": "UFC Fight Night: Vera vs. Cruz 2022",
+        "start_date": "2022-08-13",
+        "end_date": "2022-08-14",
+        "year": "2022",
+        "competition_id": "sr:competition:37125"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37179",
+    "name": "Dana White Contender Series: Season 6, Week 10",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94853",
+        "name": "Dana White Contender Series: Season 6, Week 10 2022",
+        "start_date": "2022-09-27",
+        "end_date": "2022-09-28",
+        "year": "2022",
+        "competition_id": "sr:competition:37179"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37181",
+    "name": "Dana White Contender Series: Season 6, Week 9",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94855",
+        "name": "Dana White Contender Series: Season 6, Week 9 2022",
+        "start_date": "2022-09-20",
+        "end_date": "2022-09-21",
+        "year": "2022",
+        "competition_id": "sr:competition:37181"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37183",
+    "name": "Dana White Contender Series: Season 6, Week 8",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94857",
+        "name": "Dana White Contender Series: Season 6, Week 8 2022",
+        "start_date": "2022-09-13",
+        "end_date": "2022-09-14",
+        "year": "2022",
+        "competition_id": "sr:competition:37183"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37185",
+    "name": "Dana White Contender Series: Season 6, Week 7",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94859",
+        "name": "Dana White Contender Series: Season 6, Week 7 2022",
+        "start_date": "2022-09-06",
+        "end_date": "2022-09-07",
+        "year": "2022",
+        "competition_id": "sr:competition:37185"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37187",
+    "name": "Dana White Contender Series: Season 6, Week 6",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94861",
+        "name": "Dana White Contender Series: Season 6, Week 6 2022",
+        "start_date": "2022-08-30",
+        "end_date": "2022-08-31",
+        "year": "2022",
+        "competition_id": "sr:competition:37187"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37189",
+    "name": "Dana White Contender Series: Season 6, Week 5",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:94863",
+        "name": "Dana White Contender Series: Season 6, Week 5 2022",
+        "start_date": "2022-08-23",
+        "end_date": "2022-08-24",
+        "year": "2022",
+        "competition_id": "sr:competition:37189"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37339",
+    "name": "UFC Fight Night: Sandhagen vs. Song",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:95477",
+        "name": "UFC Fight Night: Sandhagen vs. Song 2022",
+        "start_date": "2022-09-17",
+        "end_date": "2022-09-18",
+        "year": "2022",
+        "competition_id": "sr:competition:37339"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37341",
+    "name": "UFC Fight Night: Dern vs. Xiaonan",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:95479",
+        "name": "UFC Fight Night: Dern vs. Xiaonan 2022",
+        "start_date": "2022-10-01",
+        "end_date": "2022-10-02",
+        "year": "2022",
+        "competition_id": "sr:competition:37341"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37405",
+    "name": "UFC 280: Oliveira vs. Makhachev",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:95775",
+        "name": "UFC 280: Oliveira vs. Makhachev 2022",
+        "start_date": "2022-10-22",
+        "end_date": "2022-10-23",
+        "year": "2022",
+        "competition_id": "sr:competition:37405"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37519",
+    "name": "MMA.UFC.UFC 279: Diaz vs. Ferguson",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:96033",
+        "name": "UFC 279: Diaz vs. Ferguson 2022",
+        "start_date": "2022-09-10",
+        "end_date": "2022-09-11",
+        "year": "2022",
+        "competition_id": "sr:competition:37519"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37611",
+    "name": "UFC 281: Adesanya vs. Pereira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:96517",
+        "name": "UFC 281: Adesanya vs. Pereira 2022",
+        "start_date": "2022-11-12",
+        "end_date": "2022-11-13",
+        "year": "2022",
+        "competition_id": "sr:competition:37611"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37673",
+    "name": "UFC Fight Night: Grasso vs. Araujo",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:96827",
+        "name": "UFC Fight Night: Grasso vs. Araujo 2022",
+        "start_date": "2022-10-15",
+        "end_date": "2022-10-16",
+        "year": "2022",
+        "competition_id": "sr:competition:37673"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37675",
+    "name": "UFC Fight Night: Kattar vs. Allen",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:96829",
+        "name": "UFC Fight Night: Kattar vs. Allen 2022",
+        "start_date": "2022-10-29",
+        "end_date": "2022-10-30",
+        "year": "2022",
+        "competition_id": "sr:competition:37675"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37759",
+    "name": "MMA.UFC.UFC Fight Night: Cannonier vs.Strickland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:97265",
+        "name": "UFC Fight Night: Cannonier vs. Strickland 2022",
+        "start_date": "2022-12-17",
+        "end_date": "2022-12-18",
+        "year": "2022",
+        "competition_id": "sr:competition:37759"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:37883",
+    "name": "MMA.UFC.UFC Fight Night: Rodriguez vs. Lemos",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:97845",
+        "name": "UFC Fight Night: Rodriguez vs. Lemos 2022",
+        "start_date": "2022-11-05",
+        "end_date": "2022-11-06",
+        "year": "2022",
+        "competition_id": "sr:competition:37883"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38027",
+    "name": "UFC Fight Night: Thompson vs. Holland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:98351",
+        "name": "UFC Fight Night: Thompson vs. Holland 2022",
+        "start_date": "2022-12-03",
+        "end_date": "2022-12-04",
+        "year": "2022",
+        "competition_id": "sr:competition:38027"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38033",
+    "name": "UFC Fight Night: Nzechukwu vs. Cutelaba",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:98371",
+        "name": "UFC Fight Night: Nzechukwu vs. Cutelaba 2022",
+        "start_date": "2022-11-19",
+        "end_date": "2022-11-20",
+        "year": "2022",
+        "competition_id": "sr:competition:38033"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38209",
+    "name": "UFC 282: Blachowicz vs. Ankalaev",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:99241",
+        "name": "UFC 282: Blachowicz vs. Ankalaev 2022",
+        "start_date": "2022-12-10",
+        "end_date": "2022-12-11",
+        "year": "2022",
+        "competition_id": "sr:competition:38209"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38259",
+    "name": "UFC 284: Makhachev vs. Volkanovski",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:99575",
+        "name": "UFC 284: Makhachev vs. Volkanovski 2023",
+        "start_date": "2023-02-11",
+        "end_date": "2023-02-12",
+        "year": "2023",
+        "competition_id": "sr:competition:38259"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38261",
+    "name": "UFC 283: Teixeira vs. Hill",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:99577",
+        "name": "UFC 283: Teixeira vs. Hill 2023",
+        "start_date": "2023-01-21",
+        "end_date": "2023-01-22",
+        "year": "2023",
+        "competition_id": "sr:competition:38261"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38739",
+    "name": "UFC Fight Night: Strickland vs. Imavov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:100739",
+        "name": "UFC Fight Night: Strickland vs. Imavov 2023",
+        "start_date": "2023-01-14",
+        "end_date": "2023-01-15",
+        "year": "2023",
+        "competition_id": "sr:competition:38739"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38881",
+    "name": "UFC Fight Night: Lewis vs. Spivac",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:101191",
+        "name": "UFC Fight Night: Lewis vs. Spivac 2023",
+        "start_date": "2023-02-04",
+        "end_date": "2023-02-05",
+        "year": "2023",
+        "competition_id": "sr:competition:38881"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:38903",
+    "name": "UFC Fight Night: Andrade vs. Blanchfield",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:101291",
+        "name": "UFC Fight Night: Andrade vs. Blanchfield 2023",
+        "start_date": "2023-02-18",
+        "end_date": "2023-02-19",
+        "year": "2023",
+        "competition_id": "sr:competition:38903"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39029",
+    "name": "UFC 285: Jones vs. Gane",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:101975",
+        "name": "UFC 285: Jones vs. Gane 2023",
+        "start_date": "2023-03-04",
+        "end_date": "2023-03-05",
+        "year": "2023",
+        "competition_id": "sr:competition:39029"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39031",
+    "name": "UFC 286: Edwards vs. Usman 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:101977",
+        "name": "UFC 286: Edwards vs. Usman 3 2023",
+        "start_date": "2023-03-18",
+        "end_date": "2023-03-19",
+        "year": "2023",
+        "competition_id": "sr:competition:39031"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39067",
+    "name": "UFC Fight Night: Yan vs. Dvalishvili",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:102133",
+        "name": "UFC Fight Night: Yan vs. Dvalishvili 2023",
+        "start_date": "2023-03-11",
+        "end_date": "2023-03-12",
+        "year": "2023",
+        "competition_id": "sr:competition:39067"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39101",
+    "name": "UFC 287: Pereira vs. Adesanya 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:102363",
+        "name": "UFC 287: Pereira vs. Adesanya 2 2023",
+        "start_date": "2023-04-08",
+        "end_date": "2023-04-09",
+        "year": "2023",
+        "competition_id": "sr:competition:39101"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39145",
+    "name": "UFC Fight Night: Muniz vs. Allen",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:102567",
+        "name": "UFC Fight Night: Muniz vs. Allen 2023",
+        "start_date": "2023-02-25",
+        "end_date": "2023-02-26",
+        "year": "2023",
+        "competition_id": "sr:competition:39145"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39147",
+    "name": "UFC Fight Night: Vera vs. Sandhagen",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:102569",
+        "name": "UFC Fight Night: Vera vs. Sandhagen 2023",
+        "start_date": "2023-03-25",
+        "end_date": "2023-03-26",
+        "year": "2023",
+        "competition_id": "sr:competition:39147"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39279",
+    "name": "UFC Fight Night: Holloway vs. Allen",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:103127",
+        "name": "UFC Fight Night: Holloway vs. Allen 2023",
+        "start_date": "2023-04-15",
+        "end_date": "2023-04-16",
+        "year": "2023",
+        "competition_id": "sr:competition:39279"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39295",
+    "name": "UFC Fight Night: Pavlovich vs. Blaydes",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:103169",
+        "name": "UFC Fight Night: Pavlovich vs. Blaydes 2023",
+        "start_date": "2023-04-22",
+        "end_date": "2023-04-23",
+        "year": "2023",
+        "competition_id": "sr:competition:39295"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39477",
+    "name": "UFC 288: Sterling vs. Cejudo",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:103879",
+        "name": "UFC 288: Sterling vs. Cejudo 2023",
+        "start_date": "2023-05-06",
+        "end_date": "2023-05-07",
+        "year": "2023",
+        "competition_id": "sr:competition:39477"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39563",
+    "name": "UFC Fight Night: Song vs Simon",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104153",
+        "name": "UFC Fight Night: Song vs Simon 2023",
+        "start_date": "2023-04-29",
+        "end_date": "2023-04-30",
+        "year": "2023",
+        "competition_id": "sr:competition:39563"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39645",
+    "name": "UFC Fight Night: Rozenstruik vs. Almeida",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104447",
+        "name": "UFC Fight Night: Rozenstruik vs. Almeida 2023",
+        "start_date": "2023-05-13",
+        "end_date": "2023-05-14",
+        "year": "2023",
+        "competition_id": "sr:competition:39645"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39651",
+    "name": "UFC 289: Nunes vs. Aldana",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104469",
+        "name": "UFC 289: Nunes vs. Aldana 2023",
+        "start_date": "2023-06-10",
+        "end_date": "2023-06-11",
+        "year": "2023",
+        "competition_id": "sr:competition:39651"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39697",
+    "name": "UFC Fight Night: Dern vs. Hill",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104641",
+        "name": "UFC Fight Night: 5/20 2023",
+        "start_date": "2023-05-20",
+        "end_date": "2023-05-21",
+        "year": "2023",
+        "competition_id": "sr:competition:39697"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39699",
+    "name": "UFC Fight Night: Kara-France vs. Albazi",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104643",
+        "name": "UFC Fight Night: Kara-France vs. Albazi 2023",
+        "start_date": "2023-06-03",
+        "end_date": "2023-06-04",
+        "year": "2023",
+        "competition_id": "sr:competition:39699"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39701",
+    "name": "UFC Fight Night: Vettori vs. Cannonier",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104645",
+        "name": "UFC Fight Night: Vettori vs. Cannonier 2023",
+        "start_date": "2023-06-17",
+        "end_date": "2023-06-18",
+        "year": "2023",
+        "competition_id": "sr:competition:39701"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39703",
+    "name": "UFC Fight Night: Emmett vs. Topuria",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104647",
+        "name": "UFC Fight Night: Emmett vs. Topuria 2023",
+        "start_date": "2023-06-24",
+        "end_date": "2023-06-25",
+        "year": "2023",
+        "competition_id": "sr:competition:39703"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39705",
+    "name": "UFC Fight Night: Strickland vs. Magomedov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:104649",
+        "name": "UFC Fight Night: Strickland vs. Magomedov 2023",
+        "start_date": "2023-07-01",
+        "end_date": "2023-07-02",
+        "year": "2023",
+        "competition_id": "sr:competition:39705"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39883",
+    "name": "UFC Fight Night: Aspinall vs. Tybura",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:105299",
+        "name": "UFC Fight Night: Aspinall vs. Tybura 2023",
+        "start_date": "2023-07-22",
+        "end_date": "2023-07-23",
+        "year": "2023",
+        "competition_id": "sr:competition:39883"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39885",
+    "name": "UFC 290: Volkanovski vs. Rodriguez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:105301",
+        "name": "UFC 290: Volkanovski vs. Rodriguez 2023",
+        "start_date": "2023-07-08",
+        "end_date": "2023-07-09",
+        "year": "2023",
+        "competition_id": "sr:competition:39885"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39923",
+    "name": "UFC 291: Poirier vs. Gaethje 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:105497",
+        "name": "UFC 291: Poirier vs. Gaethje 2 2023",
+        "start_date": "2023-07-29",
+        "end_date": "2023-07-30",
+        "year": "2023",
+        "competition_id": "sr:competition:39923"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39925",
+    "name": "UFC 292: Sterling vs. O'Malley",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:105499",
+        "name": "UFC 292: Sterling vs. O'Malley 2023",
+        "start_date": "2023-08-19",
+        "end_date": "2023-08-20",
+        "year": "2023",
+        "competition_id": "sr:competition:39925"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:39927",
+    "name": "UFC Fight Night: Holm vs. Silva",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:105501",
+        "name": "UFC Fight Night: Holm vs. Silva 2023",
+        "start_date": "2023-07-15",
+        "end_date": "2023-07-16",
+        "year": "2023",
+        "competition_id": "sr:competition:39927"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40051",
+    "name": "UFC Fight Night: Luque vs. Dos Anjos",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:106219",
+        "name": "UFC Fight Night: Luque vs. Dos Anjos 2023",
+        "start_date": "2023-08-12",
+        "end_date": "2023-08-13",
+        "year": "2023",
+        "competition_id": "sr:competition:40051"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40189",
+    "name": "UFC Fight Night: Holloway vs. The Korean Zombie",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:106737",
+        "name": "UFC Fight Night: Holloway vs. The Korean Zombie 2023",
+        "start_date": "2023-08-26",
+        "end_date": "2023-08-27",
+        "year": "2023",
+        "competition_id": "sr:competition:40189"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40191",
+    "name": "UFC Fight Night: Gane vs. Spivac",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:106739",
+        "name": "UFC Fight Night: Gane vs. Spivac 2023",
+        "start_date": "2023-09-02",
+        "end_date": "2023-09-03",
+        "year": "2023",
+        "competition_id": "sr:competition:40191"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40217",
+    "name": "UFC Fight Night: Sandhagen vs. Font",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:106909",
+        "name": "UFC Fight Night: Sandhagen vs. Font 2023",
+        "start_date": "2023-08-05",
+        "end_date": "2023-08-06",
+        "year": "2023",
+        "competition_id": "sr:competition:40217"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40291",
+    "name": "Noche UFC: Grasso vs. Shevchenko 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:107211",
+        "name": "Noche UFC: Grasso vs. Shevchenko 2 2023",
+        "start_date": "2023-09-16",
+        "end_date": "2023-09-17",
+        "year": "2023",
+        "competition_id": "sr:competition:40291"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40371",
+    "name": "UFC 295: Prochazka vs. Pereira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:107687",
+        "name": "UFC 295: Prochazka vs. Pereira 2023",
+        "start_date": "2023-11-11",
+        "end_date": "2023-11-12",
+        "year": "2023",
+        "competition_id": "sr:competition:40371"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40373",
+    "name": "UFC 293: Adesanya vs. Strickland",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:107689",
+        "name": "UFC 293: Adesanya vs. Strickland 2023",
+        "start_date": "2023-09-09",
+        "end_date": "2023-09-10",
+        "year": "2023",
+        "competition_id": "sr:competition:40373"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40375",
+    "name": "UFC 294: Makhachev vs. Volkanovski 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:107691",
+        "name": "UFC 294: Makhachev vs. Volkanovski 2 2023",
+        "start_date": "2023-10-21",
+        "end_date": "2023-10-22",
+        "year": "2023",
+        "competition_id": "sr:competition:40375"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40389",
+    "name": "Dana White Contender Series: Season 7, Week 1",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:107781",
+        "name": "Dana White Contender Series: Season 7, Week 1 2023",
+        "start_date": "2023-08-08",
+        "end_date": "2023-08-09",
+        "year": "2023",
+        "competition_id": "sr:competition:40389"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40447",
+    "name": "Dana White Contender Series: Season 7, Week 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108119",
+        "name": "Dana White Contender Series: Season 7, Week 2 2023",
+        "start_date": "2023-08-15",
+        "end_date": "2023-08-16",
+        "year": "2023",
+        "competition_id": "sr:competition:40447"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40449",
+    "name": "Dana White Contender Series: Season 7, Week 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108121",
+        "name": "Dana White Contender Series: Season 7, Week 3 2023",
+        "start_date": "2023-08-22",
+        "end_date": "2023-08-23",
+        "year": "2023",
+        "competition_id": "sr:competition:40449"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40451",
+    "name": "Dana White Contender Series: Season 7, Week 4",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108123",
+        "name": "Dana White Contender Series: Season 7, Week 4 2023",
+        "start_date": "2023-08-29",
+        "end_date": "2023-08-30",
+        "year": "2023",
+        "competition_id": "sr:competition:40451"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40453",
+    "name": "Dana White Contender Series: Season 7, Week 5",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108125",
+        "name": "Dana White Contender Series: Season 7, Week 5 2023",
+        "start_date": "2023-09-05",
+        "end_date": "2023-09-06",
+        "year": "2023",
+        "competition_id": "sr:competition:40453"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40455",
+    "name": "Dana White Contender Series: Season 7, Week 6",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108127",
+        "name": "Dana White Contender Series: Season 7, Week 6 2023",
+        "start_date": "2023-09-12",
+        "end_date": "2023-09-13",
+        "year": "2023",
+        "competition_id": "sr:competition:40455"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40457",
+    "name": "Dana White Contender Series: Season 7, Week 7",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108129",
+        "name": "Dana White Contender Series: Season 7, Week 7 2023",
+        "start_date": "2023-09-19",
+        "end_date": "2023-09-20",
+        "year": "2023",
+        "competition_id": "sr:competition:40457"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40459",
+    "name": "Dana White Contender Series: Season 7, Week 8",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108131",
+        "name": "Dana White Contender Series: Season 7, Week 8 2023",
+        "start_date": "2023-09-26",
+        "end_date": "2023-09-27",
+        "year": "2023",
+        "competition_id": "sr:competition:40459"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40461",
+    "name": "Dana White Contender Series: Season 7, Week 9",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108133",
+        "name": "Dana White Contender Series: Season 7, Week 9 2023",
+        "start_date": "2023-10-03",
+        "end_date": "2023-10-04",
+        "year": "2023",
+        "competition_id": "sr:competition:40461"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40463",
+    "name": "Dana White Contender Series: Season 7, Week 10",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:108135",
+        "name": "Dana White Contender Series: Season 7, Week 10 2023",
+        "start_date": "2023-10-10",
+        "end_date": "2023-10-11",
+        "year": "2023",
+        "competition_id": "sr:competition:40463"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40739",
+    "name": "UFC Fight Night: Almeida vs. Lewis",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:109381",
+        "name": "UFC Fight Night: Almeida vs. Lewis 2023",
+        "start_date": "2023-11-04",
+        "end_date": "2023-11-05",
+        "year": "2023",
+        "competition_id": "sr:competition:40739"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:40741",
+    "name": "UFC Fight Night: Fiziev vs. Gamrot",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:109383",
+        "name": "UFC Fight Night: Fiziev vs. Gamrot 2023",
+        "start_date": "2023-09-23",
+        "end_date": "2023-09-24",
+        "year": "2023",
+        "competition_id": "sr:competition:40741"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41017",
+    "name": "UFC Fight Night: Dawson vs. Green",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:110405",
+        "name": "UFC Fight Night: Dawson vs. Green 2023",
+        "start_date": "2023-10-07",
+        "end_date": "2023-10-08",
+        "year": "2023",
+        "competition_id": "sr:competition:41017"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41019",
+    "name": "UFC Fight Night: Allen vs. Craig",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:110407",
+        "name": "UFC Fight Night: Allen vs. Craig 2023",
+        "start_date": "2023-11-18",
+        "end_date": "2023-11-19",
+        "year": "2023",
+        "competition_id": "sr:competition:41019"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41037",
+    "name": "UFC Fight Night: Yusuff vs. Barboza",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:110511",
+        "name": "UFC Fight Night: Yusuff vs. Barboza 2023",
+        "start_date": "2023-10-14",
+        "end_date": "2023-10-15",
+        "year": "2023",
+        "competition_id": "sr:competition:41037"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41146",
+    "name": "UFC 296: Edwards vs. Covington",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:111018",
+        "name": "UFC 296: Edwards vs. Covington 2023",
+        "start_date": "2023-12-16",
+        "end_date": "2023-12-17",
+        "year": "2023",
+        "competition_id": "sr:competition:41146"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41534",
+    "name": "UFC Fight Night: Dariush vs. Tsarukyan",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:112584",
+        "name": "UFC Fight Night: Dariush vs. Tsarukyan 2023",
+        "start_date": "2023-12-02",
+        "end_date": "2023-12-03",
+        "year": "2023",
+        "competition_id": "sr:competition:41534"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41536",
+    "name": "UFC Fight Night: Song vs. Gutierrez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:112586",
+        "name": "UFC Fight Night: Song vs. Gutierrez 2023",
+        "start_date": "2023-12-09",
+        "end_date": "2023-12-10",
+        "year": "2023",
+        "competition_id": "sr:competition:41536"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41608",
+    "name": "UFC 297: Strickland vs. Du Plessis",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:112768",
+        "name": "UFC 297: Strickland vs. Du Plessis 2024",
+        "start_date": "2024-01-20",
+        "end_date": "2024-01-21",
+        "year": "2024",
+        "competition_id": "sr:competition:41608"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41610",
+    "name": "UFC 298: Volkanovski vs. Topuria",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:112770",
+        "name": "UFC 298: Volkanovski vs. Topuria 2024",
+        "start_date": "2024-02-17",
+        "end_date": "2024-02-18",
+        "year": "2024",
+        "competition_id": "sr:competition:41610"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41612",
+    "name": "UFC 299: O'Malley vs. Vera 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:112772",
+        "name": "UFC 299: O'Malley vs. Vera 2 2024",
+        "start_date": "2024-03-09",
+        "end_date": "2024-03-10",
+        "year": "2024",
+        "competition_id": "sr:competition:41612"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41766",
+    "name": "UFC Fight Night: Ankalaev vs. Walker 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:113304",
+        "name": "UFC Fight Night: Ankalaev vs. Walker 2 2024",
+        "start_date": "2024-01-13",
+        "end_date": "2024-01-14",
+        "year": "2024",
+        "competition_id": "sr:competition:41766"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41822",
+    "name": "UFC Fight Night: Hermansson vs. Pyfer",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:113434",
+        "name": "UFC Fight Night: Hermansson vs. Pyfer 2024",
+        "start_date": "2024-02-10",
+        "end_date": "2024-02-11",
+        "year": "2024",
+        "competition_id": "sr:competition:41822"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:41887",
+    "name": "UFC Fight Night: Dolidze vs. Imavov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:113607",
+        "name": "UFC Fight Night: Dolidze vs. Imavov 2024",
+        "start_date": "2024-02-03",
+        "end_date": "2024-02-04",
+        "year": "2024",
+        "competition_id": "sr:competition:41887"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42037",
+    "name": "UFC Fight Night: Moreno vs. Royval 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:114549",
+        "name": "UFC Fight Night: Moreno vs. Royval 2 2024",
+        "start_date": "2024-02-24",
+        "end_date": "2024-02-25",
+        "year": "2024",
+        "competition_id": "sr:competition:42037"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42039",
+    "name": "UFC Fight Night: Allen vs. Curtis 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:114551",
+        "name": "UFC Fight Night: Allen vs. Curtis 2 2024",
+        "start_date": "2024-04-06",
+        "end_date": "2024-04-07",
+        "year": "2024",
+        "competition_id": "sr:competition:42039"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42041",
+    "name": "UFC 300: Pereira vs. Hill",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:114553",
+        "name": "UFC 300: Pereira vs.Hill 2024",
+        "start_date": "2024-04-13",
+        "end_date": "2024-04-14",
+        "year": "2024",
+        "competition_id": "sr:competition:42041"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42127",
+    "name": "UFC Fight Night: Tuivasa vs. Tybura",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:114953",
+        "name": "UFC Fight Night: Tuivasa vs. Tybura 2024",
+        "start_date": "2024-03-16",
+        "end_date": "2024-03-17",
+        "year": "2024",
+        "competition_id": "sr:competition:42127"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42129",
+    "name": "UFC Fight Night: Ribas vs. Namajunas",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:114955",
+        "name": "UFC Fight Night: Ribas vs. Namajunas 2024",
+        "start_date": "2024-03-23",
+        "end_date": "2024-03-24",
+        "year": "2024",
+        "competition_id": "sr:competition:42129"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42131",
+    "name": "UFC Fight Night: Blanchfield vs Fiorot",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:114957",
+        "name": "UFC Fight Night: Blanchfield vs. Fiorot 2024",
+        "start_date": "2024-03-30",
+        "end_date": "2024-03-31",
+        "year": "2024",
+        "competition_id": "sr:competition:42131"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42279",
+    "name": "UFC Fight Night: Rozenstruik vs. Gaziev",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:115743",
+        "name": "UFC Fight Night: Rozenstruik vs. Gaziev 2024",
+        "start_date": "2024-03-02",
+        "end_date": "2024-03-03",
+        "year": "2024",
+        "competition_id": "sr:competition:42279"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42335",
+    "name": "UFC 301: Pantoja vs. Erceg",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:116117",
+        "name": "UFC 301: Pantoja vs. Erceg 2024",
+        "start_date": "2024-05-04",
+        "end_date": "2024-05-05",
+        "year": "2024",
+        "competition_id": "sr:competition:42335"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42471",
+    "name": "UFC Fight Night: Nicolau vs. Perez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:116815",
+        "name": "UFC Fight Night: Nicolau vs. Perez 2024",
+        "start_date": "2024-04-27",
+        "end_date": "2024-04-28",
+        "year": "2024",
+        "competition_id": "sr:competition:42471"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42563",
+    "name": "UFC Fight Night: Whittaker vs. Aliskerov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:117195",
+        "name": "UFC Fight Night: Whittaker vs. Aliskerov 2024",
+        "start_date": "2024-06-22",
+        "end_date": "2024-06-23",
+        "year": "2024",
+        "competition_id": "sr:competition:42563"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42577",
+    "name": "UFC Fight Night: Lewis vs. Nascimento",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:117215",
+        "name": "UFC Fight Night: Lewis vs. Nascimento 2024",
+        "start_date": "2024-05-11",
+        "end_date": "2024-05-12",
+        "year": "2024",
+        "competition_id": "sr:competition:42577"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42579",
+    "name": "UFC Fight Night: Barboza vs. Murphy",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:117217",
+        "name": "UFC Fight Night: Barboza vs. Murphy 2024",
+        "start_date": "2024-05-18",
+        "end_date": "2024-05-19",
+        "year": "2024",
+        "competition_id": "sr:competition:42579"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42581",
+    "name": "UFC 302: Makhachev vs. Poirier",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:117219",
+        "name": "UFC 302: Makhachev vs. Poirier 2024",
+        "start_date": "2024-06-01",
+        "end_date": "2024-06-02",
+        "year": "2024",
+        "competition_id": "sr:competition:42581"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42651",
+    "name": "UFC 303: Pereira vs. Prochazka 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:117613",
+        "name": "UFC 303: Pereira vs. Prochazka 2 2024",
+        "start_date": "2024-06-29",
+        "end_date": "2024-06-30",
+        "year": "2024",
+        "competition_id": "sr:competition:42651"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42871",
+    "name": "UFC 304: Edwards vs. Muhammad 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:118625",
+        "name": "UFC 304: Edwards vs. Muhammad 2 2024",
+        "start_date": "2024-07-27",
+        "end_date": "2024-07-28",
+        "year": "2024",
+        "competition_id": "sr:competition:42871"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:42995",
+    "name": "UFC 305: Du Plessis vs. Adesanya",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:119785",
+        "name": "UFC 305: Du Plessis vs. Adesanya 2024",
+        "start_date": "2024-08-17",
+        "end_date": "2024-08-18",
+        "year": "2024",
+        "competition_id": "sr:competition:42995"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43017",
+    "name": "UFC Fight Night: Cannonier vs Imavov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:119233",
+        "name": "UFC Fight Night: Cannonier vs Imavov 2024",
+        "start_date": "2024-06-08",
+        "end_date": "2024-06-09",
+        "year": "2024",
+        "competition_id": "sr:competition:43017"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43047",
+    "name": "UFC Fight Night: Perez v Taira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:119467",
+        "name": "UFC Fight Night: Perez v Taira 2024",
+        "start_date": "2024-06-15",
+        "end_date": "2024-06-16",
+        "year": "2024",
+        "competition_id": "sr:competition:43047"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43207",
+    "name": "UFC Fight Night: Lemos vs. Jandiroba",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:120119",
+        "name": "UFC Fight Night: Lemos vs. Jandiroba 2024",
+        "start_date": "2024-07-20",
+        "end_date": "2024-07-21",
+        "year": "2024",
+        "competition_id": "sr:competition:43207"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43263",
+    "name": "UFC Fight Night: Namajunas vs. Cortez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:120423",
+        "name": "UFC Fight Night: Namajunas vs. Cortez 2024",
+        "start_date": "2024-07-13",
+        "end_date": "2024-07-14",
+        "year": "2024",
+        "competition_id": "sr:competition:43263"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43269",
+    "name": "UFC Fight Night: Sandhagen vs. Nurmagomedov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:120465",
+        "name": "UFC Fight Night: Sandhagen vs. Nurmagomedov 2024",
+        "start_date": "2024-08-03",
+        "end_date": "2024-08-03",
+        "year": "2024",
+        "competition_id": "sr:competition:43269"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43509",
+    "name": "UFC 306: O Malley vs. Dvalishvili",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:121721",
+        "name": "UFC 306: O Malley vs. Dvalishvili 2024",
+        "start_date": "2024-09-14",
+        "end_date": "2024-09-16",
+        "year": "2024",
+        "competition_id": "sr:competition:43509"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43543",
+    "name": "UFC Fight Night: Tybura vs. Spivac 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:121783",
+        "name": "UFC Fight Night: Tybura vs. Spivac 2 2024",
+        "start_date": "2024-08-10",
+        "end_date": "2024-08-11",
+        "year": "2024",
+        "competition_id": "sr:competition:43543"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43579",
+    "name": "Dana White Contender Series: Season 8, Week 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:121915",
+        "name": "Dana White Contender Series: Season 8, Week 2 2024",
+        "start_date": "2024-08-20",
+        "end_date": "2024-08-21",
+        "year": "2024",
+        "competition_id": "sr:competition:43579"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43593",
+    "name": "Dana White Contender Series: Season 8, Week 1",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:121965",
+        "name": "Dana White Contender Series: Season 8, Week 1 2024",
+        "start_date": "2024-08-13",
+        "end_date": "2024-08-14",
+        "year": "2024",
+        "competition_id": "sr:competition:43593"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43595",
+    "name": "Dana White Contender Series: Season 8, Week 3",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:121967",
+        "name": "Dana White Contender Series: Season 8, Week 3 2024",
+        "start_date": "2024-08-27",
+        "end_date": "2024-08-28",
+        "year": "2024",
+        "competition_id": "sr:competition:43595"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43605",
+    "name": "Dana White Contender Series: Season 8, Week 4",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:122043",
+        "name": "Dana White Contender Series: Season 8, Week 4 2024",
+        "start_date": "2024-09-03",
+        "end_date": "2024-09-04",
+        "year": "2024",
+        "competition_id": "sr:competition:43605"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43631",
+    "name": "UFC Fight Night: Cannonier vs. Borralho",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:122117",
+        "name": "UFC Fight Night: Cannonier vs. Borralho 2024",
+        "start_date": "2024-08-24",
+        "end_date": "2024-08-25",
+        "year": "2024",
+        "competition_id": "sr:competition:43631"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43633",
+    "name": "UFC Fight Night: Moicano vs. Saint Denis",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:122119",
+        "name": "UFC Fight Night: Moicano vs. Saint Denis 2024",
+        "start_date": "2024-09-28",
+        "end_date": "2024-09-29",
+        "year": "2024",
+        "competition_id": "sr:competition:43633"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43673",
+    "name": "UFC Fight Night Burns vs. Brady",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:122299",
+        "name": "UFC Fight Night Burns vs. Brady 2024",
+        "start_date": "2024-09-07",
+        "end_date": "2024-09-08",
+        "year": "2024",
+        "competition_id": "sr:competition:43673"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:43759",
+    "name": "UFC 307: Pereira vs. Rountree Jr.",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:122617",
+        "name": "UFC 307: Pereira vs. Rountree Jr. 2024",
+        "start_date": "2024-10-05",
+        "end_date": "2024-10-06",
+        "year": "2024",
+        "competition_id": "sr:competition:43759"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44121",
+    "name": "Dana White Contender Series: Season 8, Week 5",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123575",
+        "name": "Dana White Contender Series: Season 8, Week 5",
+        "start_date": "2024-09-10",
+        "end_date": "2024-09-11",
+        "year": "2024",
+        "competition_id": "sr:competition:44121"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44157",
+    "name": "UFC 308: Topuria vs. Holloway",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123813",
+        "name": "UFC 308: Topuria vs. Holloway 2024",
+        "start_date": "2024-10-26",
+        "end_date": "2024-10-27",
+        "year": "2024",
+        "competition_id": "sr:competition:44157"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44159",
+    "name": "UFC Fight Night Royval vs. Taira",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123815",
+        "name": "UFC Fight Night Royval vs. Taira 2024",
+        "start_date": "2024-10-12",
+        "end_date": "2024-10-13",
+        "year": "2024",
+        "competition_id": "sr:competition:44159"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44161",
+    "name": "UFC Fight Night Pereira vs. Hernandez",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123817",
+        "name": "UFC Fight Night Pereira v Hernandez 2024",
+        "start_date": "2024-10-19",
+        "end_date": "2024-10-20",
+        "year": "2024",
+        "competition_id": "sr:competition:44161"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44163",
+    "name": "Dana White Contender Series: Season 8, Week 6",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123821",
+        "name": "Dana White Contender Series: Season 8, Week 6 2024",
+        "start_date": "2024-09-17",
+        "end_date": "2024-09-18",
+        "year": "2024",
+        "competition_id": "sr:competition:44163"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44185",
+    "name": "UFC 309: Jones vs. Miocic",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123853",
+        "name": "UFC 309: Jones vs. Miocic 2024",
+        "start_date": "2024-11-16",
+        "end_date": "2024-11-17",
+        "year": "2024",
+        "competition_id": "sr:competition:44185"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44189",
+    "name": "Dana White Contender Series: Season 8, Week 7",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123885",
+        "name": "Dana White Contender Series: Season 8, Week 7 2024",
+        "start_date": "2024-09-24",
+        "end_date": "2024-09-25",
+        "year": "2024",
+        "competition_id": "sr:competition:44189"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44191",
+    "name": "Dana White Contender Series: Season 8, Week 8",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:123887",
+        "name": "Dana White Contender Series: Season 8, Week 8 2024",
+        "start_date": "2024-10-02",
+        "end_date": "2024-10-03",
+        "year": "2024",
+        "competition_id": "sr:competition:44191"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44247",
+    "name": "Dana White Contender Series: Season 8, Week 9",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:124037",
+        "name": "Dana White Contender Series: Season 8, Week 9 2024",
+        "start_date": "2024-10-08",
+        "end_date": "2024-10-09",
+        "year": "2024",
+        "competition_id": "sr:competition:44247"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44249",
+    "name": "Dana White Contender Series: Season 8, Week 10",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:124039",
+        "name": "Dana White Contender Series: Season 8, Week 10 2024",
+        "start_date": "2024-10-16",
+        "end_date": "2024-10-17",
+        "year": "2024",
+        "competition_id": "sr:competition:44249"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44525",
+    "name": "UFC Fight Night: Moreno vs. Albazi",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:124941",
+        "name": "UFC Fight Night: Moreno vs. Albazi 2024",
+        "start_date": "2024-11-02",
+        "end_date": "2024-11-03",
+        "year": "2024",
+        "competition_id": "sr:competition:44525"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44661",
+    "name": "UFC 310: Pantoja vs. Asakura",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:125205",
+        "name": "UFC 310: Pantoja vs. Asakura 2024",
+        "start_date": "2024-12-07",
+        "end_date": "2024-12-08",
+        "year": "2024",
+        "competition_id": "sr:competition:44661"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44835",
+    "name": "UFC Fight Night: Magny vs. Prates",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:125629",
+        "name": "UFC Fight Night: Magny vs. Prates 2024",
+        "start_date": "2024-11-09",
+        "end_date": "2024-11-10",
+        "year": "2024",
+        "competition_id": "sr:competition:44835"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:44837",
+    "name": "UFC Fight Night: Yan vs. Figueiredo",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:125631",
+        "name": "UFC Fight Night: Yan vs. Figueiredo 2024",
+        "start_date": "2024-11-23",
+        "end_date": "2024-11-24",
+        "year": "2024",
+        "competition_id": "sr:competition:44837"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45087",
+    "name": "UFC Fight Night: Covington vs. Buckley",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:126209",
+        "name": "UFC Fight Night: Covington vs. Buckley 2024",
+        "start_date": "2024-12-14",
+        "end_date": "2024-12-15",
+        "year": "2024",
+        "competition_id": "sr:competition:45087"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45355",
+    "name": "UFC 311: Makhachev vs. Moicano",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:126923",
+        "name": "UFC 311: Makhachev vs. Moicano 2025",
+        "start_date": "2025-01-18",
+        "end_date": "2025-01-19",
+        "year": "2025",
+        "competition_id": "sr:competition:45355"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45377",
+    "name": "UFC 312: Du Plessis vs. Strickland 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:126953",
+        "name": "UFC 312: Du Plessis vs. Strickland 2 2025",
+        "start_date": "2025-02-08",
+        "end_date": "2025-02-09",
+        "year": "2025",
+        "competition_id": "sr:competition:45377"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45403",
+    "name": "UFC Fight Night: Adesanya vs. Imavov",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127085",
+        "name": "UFC Fight Night: Adesanya vs. Imavov 2025",
+        "start_date": "2025-02-01",
+        "end_date": "2025-02-02",
+        "year": "2025",
+        "competition_id": "sr:competition:45403"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45411",
+    "name": "UFC Fight Night: Dern vs. Ribas 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127247",
+        "name": "UFC Fight Night: Dern vs. Ribas 2 2025",
+        "start_date": "2025-01-11",
+        "end_date": "2025-01-12",
+        "year": "2025",
+        "competition_id": "sr:competition:45411"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45591",
+    "name": "UFC Fight Night: Cannonier vs. Rodrigues",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127597",
+        "name": "UFC Fight Night: Cannonier vs. Rodrigues 2025",
+        "start_date": "2025-02-15",
+        "end_date": "2025-02-16",
+        "year": "2025",
+        "competition_id": "sr:competition:45591"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45731",
+    "name": "UFC Fight Night: Cejudo vs. Song",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127795",
+        "name": "UFC Fight Night: Cejudo vs. Song 2025",
+        "start_date": "2025-02-22",
+        "end_date": "2025-02-23",
+        "year": "2025",
+        "competition_id": "sr:competition:45731"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45733",
+    "name": "UFC Fight Night: Royval vs. Kape",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127797",
+        "name": "UFC Fight Night: Royval vs. Kape 2025",
+        "start_date": "2025-03-01",
+        "end_date": "2025-03-02",
+        "year": "2025",
+        "competition_id": "sr:competition:45733"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45825",
+    "name": "UFC 313: Pereira vs. Ankalaev",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127987",
+        "name": "UFC 313: Pereira vs. Ankalaev 2025",
+        "start_date": "2025-03-08",
+        "end_date": "2025-03-09",
+        "year": "2025",
+        "competition_id": "sr:competition:45825"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:45827",
+    "name": "UFC Fight Night: Edwards vs. Della Maddalena",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:127989",
+        "name": "UFC Fight Night: Edwards vs. Della Maddalena 2025",
+        "start_date": "2025-03-22",
+        "end_date": "2025-03-23",
+        "year": "2025",
+        "competition_id": "sr:competition:45827"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46043",
+    "name": "UFC Fight Night: Vettori vs. Dolidze 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:128539",
+        "name": "UFC Fight Night: Vettori vs. Dolidze 2 2025",
+        "start_date": "2025-03-15",
+        "end_date": "2025-03-16",
+        "year": "2025",
+        "competition_id": "sr:competition:46043"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46095",
+    "name": "UFC Fight Night: Moreno vs. Erceg",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:128699",
+        "name": "UFC Fight Night: Moreno vs. Erceg 2025",
+        "start_date": "2025-03-29",
+        "end_date": "2025-03-30",
+        "year": "2025",
+        "competition_id": "sr:competition:46095"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46149",
+    "name": "UFC 315: Muhammad vs. Della Maddalena",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:128775",
+        "name": "UFC 315: Muhammad vs. Della Maddalena 2025",
+        "start_date": "2025-05-09",
+        "end_date": "2025-05-11",
+        "year": "2025",
+        "competition_id": "sr:competition:46149"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46151",
+    "name": "UFC 314: Volkanovski vs. Lopes",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:128777",
+        "name": "UFC 314: Volkanovski vs. Lopes 2025",
+        "start_date": "2025-04-12",
+        "end_date": "2025-04-13",
+        "year": "2025",
+        "competition_id": "sr:competition:46151"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46227",
+    "name": "UFC Fight Night: Machado Garry vs. Prates",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:128961",
+        "name": "UFC Fight Night: Machado Garry vs. Prates 2025",
+        "start_date": "2025-04-26",
+        "end_date": "2025-04-27",
+        "year": "2025",
+        "competition_id": "sr:competition:46227"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46257",
+    "name": "UFC Fight Night: Sandhagen vs. Figueiredo",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:129019",
+        "name": "UFC Fight Night: Sandhagen vs. Figueiredo 2025",
+        "start_date": "2025-05-03",
+        "end_date": "2025-05-04",
+        "year": "2025",
+        "competition_id": "sr:competition:46257"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46259",
+    "name": "UFC Fight Night: Emmett vs. Murphy",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:129021",
+        "name": "UFC Fight Night: Emmett vs. Murphy 2025",
+        "start_date": "2025-04-05",
+        "end_date": "2025-04-06",
+        "year": "2025",
+        "competition_id": "sr:competition:46259"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46649",
+    "name": "UFC 316: Dvalishvili vs. O Malley 2",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:129771",
+        "name": "UFC 316: Dvalishvili vs. O Malley 2 2025",
+        "start_date": "2025-06-07",
+        "end_date": "2025-06-08",
+        "year": "2025",
+        "competition_id": "sr:competition:46649"
+      }
+    ]
+  },
+  {
+    "id": "sr:competition:46708",
+    "name": "UFC Fight Night: Blanchfield vs. Barber",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:129932",
+        "name": "UFC Fight Night: Blanchfield vs. Barber 2025",
+        "start_date": "2025-05-31",
+        "end_date": "2025-06-01",
+        "year": "2025",
+        "competition_id": "sr:competition:46708"
+      }
+    ]
+  }
+]

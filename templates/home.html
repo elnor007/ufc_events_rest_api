@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>UFC Events Viewer</title>
+</head>
+<body>
+    <h1>Choose Event Type</h1>
+    <form method="POST">
+        <input type="radio" id="previous" name="event_type" value="previous" checked>
+        <label for="previous">Previous Events</label><br>
+        
+        <input type="radio" id="future" name="event_type" value="future">
+        <label for="future">Future Events</label><br><br>
+
+        <label for="num_events">Number of Events:</label>
+        <input type="number" id="num_events" name="num_events" required><br><br>
+
+        <input type="submit" value="Fetch Events">
+    </form>
+</body>
+</html>
