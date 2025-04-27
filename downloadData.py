@@ -2,7 +2,7 @@ import requests
 import time
 import json
 
-api_key = "SkioKWudCNSQcSiqDJ3qIepC8lHy2JnI5ebdNgdl"       # Enter your auto generated API key
+api_key = "1234567890..."       # Enter your auto generated API key
 base_url = "https://api.sportradar.com/mma/trial/v2/en"
 output_file = "ufc_full_competitions.json"
 
