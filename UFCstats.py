@@ -6,7 +6,7 @@ import json
 with open("ufc_full_competitions.json") as  f:
 	competitions = json.load(f)
 
-api_key = 'SkioKWudCNSQcSiqDJ3qIepC8lHy2JnI5ebdNgdl' # Input the generated API key
+api_key = '1234567890...' # Input the generated API key
 
 app = Flask(__name__)
 
