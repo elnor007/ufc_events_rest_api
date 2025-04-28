@@ -7003,5 +7003,23 @@
         "competition_id": "sr:competition:46708"
       }
     ]
+  },
+  {
+    "id": "sr:competition:46849",
+    "name": "UFC Fight Night: Burns vs. Morales",
+    "category": {
+      "id": "sr:category:1089",
+      "name": "UFC"
+    },
+    "seasons": [
+      {
+        "id": "sr:season:130243",
+        "name": "UFC Fight Night: Burns vs. Morales 2025",
+        "start_date": "2025-05-17",
+        "end_date": "2025-05-18",
+        "year": "2025",
+        "competition_id": "sr:competition:46849"
+      }
+    ]
   }
 ]

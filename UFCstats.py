@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 from flask import Flask, jsonify, render_template, request
 from datetime import datetime, date
 import requests
@@ -50,6 +51,10 @@ def findPrev(num):
 	slicedEvents = competitionsSorted[start : end : -1]
 	print(f"Finding last {num} events!")
 	return slicedEvents
+=======
+from event_finding_util import findNext, findPrev, app
+from flask import render_template, request
+>>>>>>> 90d6e42 (Add .gitignore to exclude venv)
 
 
 @app.route('/', methods=["GET", "POST"])
@@ -73,7 +78,6 @@ def home():
 def compData():
 	comps = get_all_competitions_sorted()
 	return [comp["comp"] for comp in comps][::-1]
-
 
 
 
