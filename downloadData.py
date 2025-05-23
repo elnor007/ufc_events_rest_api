@@ -44,7 +44,7 @@ def download_all_data():
                 time.sleep(1)  # Respect 1 QPS limit
 
         # Save the results to file
-        with open(OBoutput_file, "w") as f:
+        with open(output_file, "w") as f:
                 json.dump(results, f, indent=2)
 
         print(f"\n Saved {len(results)} competitions to '{output_file}'")
